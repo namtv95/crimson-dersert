@@ -5409,31 +5409,31 @@
       },
       {
         "key": 2101010,
-        "item_name": "Luon Plate Helm",
+        "item_name": "Knight of Carnage Plate Helm",
         "item_type": "Disc0",
         "string_key": "Luon_PlateArmor_Helm"
       },
       {
         "key": 2111053,
-        "item_name": "Luon Plate Armor",
+        "item_name": "Knight of Carnage Plate Armor",
         "item_type": "Disc0",
         "string_key": "Luon_PlateArmor_Armor"
       },
       {
         "key": 121054,
-        "item_name": "Luon Plate Gloves",
+        "item_name": "Knight of Carnage Plate Gloves",
         "item_type": "Disc0",
         "string_key": "Luon_PlateArmor_Gloves"
       },
       {
         "key": 1163503,
-        "item_name": "Luon Plate Boots",
+        "item_name": "Knight of Carnage Plate Boots",
         "item_type": "Disc0",
         "string_key": "Luon_Plate_Boots"
       },
       {
         "key": 1000818,
-        "item_name": "Luon Plate Cloak",
+        "item_name": "Knight of Carnage Plate Cloak",
         "item_type": "Disc0",
         "string_key": "Luon_PlateArmor_Cloak"
       },
@@ -5841,31 +5841,31 @@
       },
       {
         "key": 101046,
-        "item_name": "Tarandus Plate Helm",
+        "item_name": "The Ashen's Plate Helm",
         "item_type": "Disc0",
         "string_key": "Tarandus_PlateArmor_Helm"
       },
       {
         "key": 111039,
-        "item_name": "Tarandus Plate Armor",
+        "item_name": "The Ashen's Plate Armor",
         "item_type": "Disc0",
         "string_key": "Tarandus_PlateArmor_Armor"
       },
       {
         "key": 121025,
-        "item_name": "Tarandus Plate Gloves",
+        "item_name": "The Ashen's Plate Gloves",
         "item_type": "Disc0",
         "string_key": "Tarandus_PlateArmor_Gloves"
       },
       {
         "key": 133164,
-        "item_name": "Tarandus Leather Boots",
+        "item_name": "The Ashen's Leather Boots",
         "item_type": "Disc0",
         "string_key": "Tarandus_Leather_Boots"
       },
       {
         "key": 1004632,
-        "item_name": "Tarandus Leather Cloak",
+        "item_name": "The Ashen's Leather Cloak",
         "item_type": "Disc0",
         "string_key": "Tarandus_PlateArmor_Cloak"
       },
@@ -6471,7 +6471,7 @@
       },
       {
         "key": 111187,
-        "item_name": "Flame Knights Chain Mail",
+        "item_name": "Flame Knights Plate Armor",
         "item_type": "Disc0",
         "string_key": "Lower_ChainMail_Armor"
       },
@@ -6813,7 +6813,7 @@
       },
       {
         "key": 1004631,
-        "item_name": "Bastier Plate Cloak",
+        "item_name": "Demenissian Grand General Plate Cloak",
         "item_type": "Disc0",
         "string_key": "Bastion_PlateArmor_Cloak"
       },
@@ -9000,18 +9000,6 @@
         "string_key": "Pailoon_OneHandMace"
       },
       {
-        "key": 1004542,
-        "item_name": "Frying Pan",
-        "item_type": "Disc0",
-        "string_key": "FryingPan_OneHandMace"
-      },
-      {
-        "key": 1004544,
-        "item_name": "Ladle",
-        "item_type": "Disc0",
-        "string_key": "Ladle_OneHandMace"
-      },
-      {
         "key": 13500,
         "item_name": "Royal Oath",
         "item_type": "Disc0",
@@ -9196,12 +9184,6 @@
         "item_name": "King's Dagger",
         "item_type": "Disc0",
         "string_key": "Legendary_Kings_OneHandDagger"
-      },
-      {
-        "key": 1004545,
-        "item_name": "Kitchen Knife",
-        "item_type": "Disc0",
-        "string_key": "KitchenKnife_OneHandDagger"
       },
       {
         "key": 12701,
@@ -10311,7 +10293,7 @@
       },
       {
         "key": 1001681,
-        "item_name": "Blue-Glazed Container",
+        "item_name": "White Iron Water Bottle",
         "item_type": "Disc0",
         "string_key": "Collection_Prop_Bottle_0043"
       },
@@ -10419,7 +10401,7 @@
       },
       {
         "key": 1001685,
-        "item_name": "Light Green-Glazed Water Bottle",
+        "item_name": "White-Glazed Water Bottle",
         "item_type": "Disc0",
         "string_key": "Collection_Prop_Bottle_0047"
       },
@@ -17438,16 +17420,76 @@
     "localtion": "",
     "sell_list": [
       {
-        "key": 2200,
-        "item_name": "Stub Arrow",
+        "key": 10026,
+        "item_name": "Lantern",
         "item_type": "Disc0",
-        "string_key": "Pyeonjeon_Arrow"
+        "string_key": "Lantern"
+      },
+      {
+        "key": 10043,
+        "item_name": "Shiny Blue Sea Lantern",
+        "item_type": "Disc0",
+        "string_key": "Light_Of_Giant_Lantern"
+      },
+      {
+        "key": 10044,
+        "item_name": "Shroud Lantern",
+        "item_type": "Disc0",
+        "string_key": "Gold_Plating_Lantern"
+      },
+      {
+        "key": 10045,
+        "item_name": "Fancy Flame-Patterned Lantern",
+        "item_type": "Disc0",
+        "string_key": "DeerKing_Lantern"
+      },
+      {
+        "key": 10046,
+        "item_name": "Dark Fog Lantern",
+        "item_type": "Disc0",
+        "string_key": "RedNose_Lantern"
+      },
+      {
+        "key": 10047,
+        "item_name": "Flame Lantern",
+        "item_type": "Disc0",
+        "string_key": "Mjordin_Lantern"
+      },
+      {
+        "key": 1000858,
+        "item_name": "Firefly Lantern",
+        "item_type": "Disc0",
+        "string_key": "FireFly_Lantern"
+      },
+      {
+        "key": 1001849,
+        "item_name": "Wooden Lantern",
+        "item_type": "Disc0",
+        "string_key": "Wood_Lantern"
+      },
+      {
+        "key": 1003190,
+        "item_name": "Purple Scout Lantern",
+        "item_type": "Disc0",
+        "string_key": "Twich_Lantern"
+      },
+      {
+        "key": 1003201,
+        "item_name": "Blue Scout Lantern",
+        "item_type": "Disc0",
+        "string_key": "Bilibili_Lantern"
       },
       {
         "key": 50001,
         "item_name": "Arrow",
         "item_type": "Disc0",
         "string_key": "Arrow"
+      },
+      {
+        "key": 2200,
+        "item_name": "Stub Arrow",
+        "item_type": "Disc0",
+        "string_key": "Pyeonjeon_Arrow"
       },
       {
         "key": 50003,
@@ -18174,12 +18216,6 @@
         "item_name": "Blue Scout Shield",
         "item_type": "Disc0",
         "string_key": "Bilibili_OneHandShield"
-      },
-      {
-        "key": 1004543,
-        "item_name": "Frying Pan Lid",
-        "item_type": "Disc0",
-        "string_key": "FryingPan_Lid_OneHandShield"
       },
       {
         "key": 1163043,
