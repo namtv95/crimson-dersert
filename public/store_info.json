@@ -17564,16 +17564,16 @@
         "string_key": "Bilibili_Lantern"
       },
       {
-        "key": 50001,
-        "item_name": "Arrow",
-        "item_type": "Disc0",
-        "string_key": "Arrow"
-      },
-      {
         "key": 2200,
         "item_name": "Stub Arrow",
         "item_type": "Disc0",
         "string_key": "Pyeonjeon_Arrow"
+      },
+      {
+        "key": 50001,
+        "item_name": "Arrow",
+        "item_type": "Disc0",
+        "string_key": "Arrow"
       },
       {
         "key": 50003,
@@ -17856,6 +17856,12 @@
         "item_name": "Circus Machine Sphere",
         "item_type": "Disc0",
         "string_key": "CircusMachine_Sphere"
+      },
+      {
+        "key": 1004838,
+        "item_name": "Small Explosive",
+        "item_type": "Disc0",
+        "string_key": "Small_Fire_Bomb"
       },
       {
         "key": 13600,
@@ -18798,6 +18804,12 @@
         "item_name": "Antumbra Sign",
         "item_type": "Disc0",
         "string_key": "Antumbra_Picket"
+      },
+      {
+        "key": 1004829,
+        "item_name": "Small Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Common_Flag_III"
       },
       {
         "key": 254143257,
