@@ -240,6 +240,12 @@
         "string_key": "Nairah_Basic_Leather_Cloak"
       },
       {
+        "key": 1000051,
+        "item_name": "Odeck's Protector Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "OrcuMer_PlateArmor_Helm"
+      },
+      {
         "key": 1000802,
         "item_name": "Official Knight's Plate Helm",
         "item_type": "Disc0",
@@ -324,70 +330,22 @@
         "string_key": "Demian_Fabric_Cloak_II"
       },
       {
-        "key": 14511,
-        "item_name": "Bespoke Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_I"
-      },
-      {
-        "key": 1000202,
-        "item_name": "Circuit Hijacking Helm",
-        "item_type": "Disc0",
-        "string_key": "Hacking_PlateArmor_Helm"
-      },
-      {
-        "key": 1000102,
-        "item_name": "Constellation Helm",
-        "item_type": "Disc0",
-        "string_key": "Anamorphic_PlateArmor_Helm"
-      },
-      {
-        "key": 1000231,
-        "item_name": "Guard Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_II"
-      },
-      {
-        "key": 1000037,
-        "item_name": "Helm of Knowledge",
-        "item_type": "Disc0",
-        "string_key": "Knowledge_PlateArmor_Helm"
-      },
-      {
-        "key": 1000232,
-        "item_name": "Military Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_III"
-      },
-      {
-        "key": 356742259,
-        "item_name": "Pororin Petal Hat",
-        "item_type": "Disc0",
-        "string_key": "Florin_Fabric_Helm"
-      },
-      {
-        "key": 1000233,
-        "item_name": "Prototype Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_IV"
-      },
-      {
-        "key": 14510,
-        "item_name": "Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm"
-      },
-      {
         "key": 14400,
         "item_name": "Wanderer of Faith's Plate Helm",
         "item_type": "Disc0",
         "string_key": "Demian_PlateArmor_Helm_V"
       },
       {
-        "key": 1000474,
-        "item_name": "Wooden Mask of Lost Justice",
+        "key": 2133099,
+        "item_name": "Blinding Arrow's Light Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Orcumer_Helm"
+        "string_key": "Light_Arrowhead_Leather_Armor_III"
+      },
+      {
+        "key": 1004802,
+        "item_name": "Dark Executioner Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Bellania_Leather_Armor"
       },
       {
         "key": 1001532,
@@ -396,10 +354,46 @@
         "string_key": "Damian_Demeniss_Elite_Uniform_Leather_Armor"
       },
       {
+        "key": 1004805,
+        "item_name": "Duskmoon Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Duskmoon_Fabric_Armor"
+      },
+      {
+        "key": 1004803,
+        "item_name": "Frenoa Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Frenoa_PlateArmor_Armor"
+      },
+      {
+        "key": 1002760,
+        "item_name": "Golden Freesword Light Armor",
+        "item_type": "Disc0",
+        "string_key": "Twilight_Whistlers_PlateArmor_Armor_III"
+      },
+      {
         "key": 1163781,
         "item_name": "Naira's Basic Attire",
         "item_type": "Disc0",
         "string_key": "Nairah_Basic_Leather_Armor"
+      },
+      {
+        "key": 1004804,
+        "item_name": "Rivenheim Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Rivenheim_Fabric_Armor"
+      },
+      {
+        "key": 1004801,
+        "item_name": "Rovenia Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Rovenia_Fabric_Armor"
+      },
+      {
+        "key": 1004800,
+        "item_name": "Sermena Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Sermena_Fabric_Armor"
       },
       {
         "key": 1004564,
@@ -430,12 +424,6 @@
         "item_name": "Radiant Plate Boots",
         "item_type": "Disc0",
         "string_key": "Demian_Pure_White_Plate_Boots_I"
-      },
-      {
-        "key": 1003928,
-        "item_name": "Greymane Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Demian_Greyfur_Fabric_Cloak_I"
       },
       {
         "key": 101101,
@@ -492,6 +480,36 @@
         "string_key": "Oongka_Basic_Leather_Cloak"
       },
       {
+        "key": 101009,
+        "item_name": "Ator's Will Helm",
+        "item_type": "Disc0",
+        "string_key": "Makutan_PlateArmor_Helm"
+      },
+      {
+        "key": 114300,
+        "item_name": "Ator's Will Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Wintharden_Fabric_Armor"
+      },
+      {
+        "key": 1002268,
+        "item_name": "Bandit Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Laviren_Fabric_Armor_1"
+      },
+      {
+        "key": 1003675,
+        "item_name": "Bandit Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Laviren_Fabric_Cloak_I"
+      },
+      {
+        "key": 1000321,
+        "item_name": "Beekeeping Cloak",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Beekeeping_Cloak"
+      },
+      {
         "key": 1000993,
         "item_name": "Belkandor Plate Helm",
         "item_type": "Disc0",
@@ -522,10 +540,220 @@
         "string_key": "Oongka_PlateArmor_Cloak_III"
       },
       {
-        "key": 1003916,
-        "item_name": "Greymane Cloth Armor",
+        "key": 101053,
+        "item_name": "Black Bears' Leather Helm",
         "item_type": "Disc0",
-        "string_key": "Greyfur_Fabric_Armor_CI"
+        "string_key": "Beoneck_Leather_Helm"
+      },
+      {
+        "key": 1000846,
+        "item_name": "Black Bears' Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Tibbletanus_Fabric_Cloak"
+      },
+      {
+        "key": 2133151,
+        "item_name": "Blinding Arrow's Mask",
+        "item_type": "Disc0",
+        "string_key": "Natural_Enemy_Mask"
+      },
+      {
+        "key": 1001061,
+        "item_name": "Blinding Arrow's Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Light_Arrowhead_Fabric_Cloak_I"
+      },
+      {
+        "key": 1003203,
+        "item_name": "Blue Scout Armor",
+        "item_type": "Disc0",
+        "string_key": "Bilibili_Fabric_Armor"
+      },
+      {
+        "key": 1003204,
+        "item_name": "Blue Scout Cloak",
+        "item_type": "Disc0",
+        "string_key": "Bilibili_Fabric_Cloak"
+      },
+      {
+        "key": 2062522806,
+        "item_name": "Condemner's Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Kurinan_PlateArmor_Armor_I"
+      },
+      {
+        "key": 1003674,
+        "item_name": "Condemner's Plate Cloak",
+        "item_type": "Disc0",
+        "string_key": "Kurinan_PlateArmor_Cloak_I"
+      },
+      {
+        "key": 1000007,
+        "item_name": "Desert Marauder's Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Desert_Plunderer_Helmet"
+      },
+      {
+        "key": 2133055,
+        "item_name": "Desert Marauder's Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Desert_Harrier_PlateArmor_Armor_I"
+      },
+      {
+        "key": 1000318,
+        "item_name": "Desert Marauder's Cloak",
+        "item_type": "Disc0",
+        "string_key": "Desert_Harrier_PlateArmor_Cloak_I"
+      },
+      {
+        "key": 1003211,
+        "item_name": "Dewhaven Standard Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Dewhaven_PlateArmor_Helm"
+      },
+      {
+        "key": 113524,
+        "item_name": "Dewhaven Standard Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Harald_Leather_Armor"
+      },
+      {
+        "key": 1001574,
+        "item_name": "Dewhaven Standard Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Harald_Fabric_Cloak"
+      },
+      {
+        "key": 101111,
+        "item_name": "The Faceless's Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Arghai_PlateArmor_Helm"
+      },
+      {
+        "key": 111151,
+        "item_name": "The Faceless's Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Bayur_Fabric_Armor"
+      },
+      {
+        "key": 1000624,
+        "item_name": "Golden Free Company's Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Twilight_Whistlers_PlateArmor_Helm_II"
+      },
+      {
+        "key": 1002761,
+        "item_name": "Golden Free Company's Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Twilight_Whistlers_PlateArmor_Armor_II"
+      },
+      {
+        "key": 1955057078,
+        "item_name": "Grotevant Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "WellsKnight_PlateArmor_Helm"
+      },
+      {
+        "key": 1473348912,
+        "item_name": "Grotevant Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "WellsKnight_PlateArmor_Armor"
+      },
+      {
+        "key": 2094675372,
+        "item_name": "Grotevant Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "WellsKnight_PlateArmor_Gloves"
+      },
+      {
+        "key": 697368607,
+        "item_name": "Grotevant Plate Boots",
+        "item_type": "Disc0",
+        "string_key": "WellsKnight_Plate_Boots"
+      },
+      {
+        "key": 1000303,
+        "item_name": "Grotevant Cloak",
+        "item_type": "Disc0",
+        "string_key": "WellsKnight_PlateArmor_Cloak"
+      },
+      {
+        "key": 1000326,
+        "item_name": "Hernandian Cloak",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Hernand_Party_Cloak"
+      },
+      {
+        "key": 1000524,
+        "item_name": "Kairos Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Kliff_PlateArmor_Armor"
+      },
+      {
+        "key": 1000560,
+        "item_name": "Kairos Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "Kliff_PlateArmor_Gloves"
+      },
+      {
+        "key": 1000567,
+        "item_name": "Kairos Plate Boots",
+        "item_type": "Disc0",
+        "string_key": "Kliff_Plate_Boots"
+      },
+      {
+        "key": 1000546,
+        "item_name": "Kairos Cloak",
+        "item_type": "Disc0",
+        "string_key": "Kliff_PlateArmor_Cloak"
+      },
+      {
+        "key": 1003192,
+        "item_name": "Purple Scout Armor",
+        "item_type": "Disc0",
+        "string_key": "Twich_Fabric_Armor"
+      },
+      {
+        "key": 1003193,
+        "item_name": "Purple Scout Cloak",
+        "item_type": "Disc0",
+        "string_key": "Twich_Fabric_Cloak"
+      },
+      {
+        "key": 1000249,
+        "item_name": "Riding Boots",
+        "item_type": "Disc0",
+        "string_key": "riding_Leather_Boots"
+      },
+      {
+        "key": 1000274,
+        "item_name": "Riding Cloak",
+        "item_type": "Disc0",
+        "string_key": "Riding_Fabric_Cloak"
+      },
+      {
+        "key": 2133207,
+        "item_name": "Shadowleaf Gloves",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Ent_Gloves"
+      },
+      {
+        "key": 2133208,
+        "item_name": "Shadowleaf Boots",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Ent_Boots"
+      },
+      {
+        "key": 1000331,
+        "item_name": "Shadowleaf Cloak",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Ent_Cloak"
+      },
+      {
+        "key": 1000380,
+        "item_name": "Plate Helm of the Shadows",
+        "item_type": "Disc0",
+        "string_key": "DarknessKing_PlateArmor_Helm"
       },
       {
         "key": 101102,
@@ -558,6 +786,30 @@
         "string_key": "Solas_PlateArmor_Cloak"
       },
       {
+        "key": 133020,
+        "item_name": "St. Halssius Priest's Leather Boots",
+        "item_type": "Disc0",
+        "string_key": "Volcker_Leather_Boots"
+      },
+      {
+        "key": 1000325,
+        "item_name": "St. Halssius Priest's Cloak",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Monk_cloak"
+      },
+      {
+        "key": 1002484,
+        "item_name": "Sungrove Standard Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Valoric_PlateArmor_Helm"
+      },
+      {
+        "key": 1001402,
+        "item_name": "Sungrove Standard Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Noble_Retainer_PlateArmor_Armor"
+      },
+      {
         "key": 1000992,
         "item_name": "Valortread Plate Helm",
         "item_type": "Disc0",
@@ -588,10 +840,262 @@
         "string_key": "Oongka_PlateArmor_Cloak_II"
       },
       {
+        "key": 1000200,
+        "item_name": "Wolf Tracker Helm",
+        "item_type": "Disc0",
+        "string_key": "Wolf_Pursuer_Fabric_Helm"
+      },
+      {
+        "key": 1000179,
+        "item_name": "Wolf Tracker Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Wolf_Pursuer_Fabric_Armor"
+      },
+      {
+        "key": 1000181,
+        "item_name": "Wolf Tracker Leather Boots",
+        "item_type": "Disc0",
+        "string_key": "Wolf_Pursuer_Leather_Boots"
+      },
+      {
+        "key": 1003286,
+        "item_name": "Wolf Tracker Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Wolf_Pursuer_Fabric_Cloak"
+      },
+      {
+        "key": 1002282,
+        "item_name": "Yrkabel Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Deer_King_Follower_Leather_Armor_VI"
+      },
+      {
+        "key": 1002742,
+        "item_name": "Yrkabel Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Deer_King_Follower_Cloak_I"
+      },
+      {
+        "key": 14500,
+        "item_name": "Alpha Wolf Helm",
+        "item_type": "Disc0",
+        "string_key": "Wolf_Chief_Leather_Helm"
+      },
+      {
+        "key": 14507,
+        "item_name": "Black Bear Gas Mask",
+        "item_type": "Disc0",
+        "string_key": "Brimstone_Leather_Helm"
+      },
+      {
+        "key": 1003202,
+        "item_name": "Blue Scout Hat",
+        "item_type": "Disc0",
+        "string_key": "Bilibili_Leather_Helm"
+      },
+      {
+        "key": 14501,
+        "item_name": "Boss Bear Hat",
+        "item_type": "Disc0",
+        "string_key": "Bear_Chief_Leather_Helm"
+      },
+      {
+        "key": 1000073,
+        "item_name": "Brimstone Gas Mask",
+        "item_type": "Disc0",
+        "string_key": "Gas_Mask_Helm_I"
+      },
+      {
+        "key": 1001258,
+        "item_name": "Catfish Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Catfish_Helm"
+      },
+      {
+        "key": 1002122,
+        "item_name": "Deceiver's Fedora",
+        "item_type": "Disc0",
+        "string_key": "Card_Vision_Helm"
+      },
+      {
+        "key": 1000340,
+        "item_name": "Deer Hat",
+        "item_type": "Disc0",
+        "string_key": "Deer_King_Follower_Leather_Helm"
+      },
+      {
+        "key": 1001236,
+        "item_name": "Health Detection Device",
+        "item_type": "Disc0",
+        "string_key": "Scouter_HP_PlateArmor_Helm"
+      },
+      {
+        "key": 2133182,
+        "item_name": "Hyena Helm",
+        "item_type": "Disc0",
+        "string_key": "Hyena_Leather_Helm"
+      },
+      {
+        "key": 1000236,
+        "item_name": "Helm of Ignition",
+        "item_type": "Disc0",
+        "string_key": "Heat_PlateArmor_Helm"
+      },
+      {
+        "key": 1000143,
+        "item_name": "Miner's Lantern Hat",
+        "item_type": "Disc0",
+        "string_key": "Miner_PlateArmor_Helm"
+      },
+      {
+        "key": 1003191,
+        "item_name": "Purple Scout Hat",
+        "item_type": "Disc0",
+        "string_key": "Twich_Leather_Helm"
+      },
+      {
+        "key": 1000247,
+        "item_name": "Leather Riding Hat",
+        "item_type": "Disc0",
+        "string_key": "riding_Leather_Helm"
+      },
+      {
+        "key": 333963940,
+        "item_name": "Scarlet Blades Gas Mask",
+        "item_type": "Disc0",
+        "string_key": "Drug_Leather_Helm"
+      },
+      {
+        "key": 12506,
+        "item_name": "Silver Fang Helm",
+        "item_type": "Disc0",
+        "string_key": "Legendary_WhiteWolf_Leather_Helm"
+      },
+      {
+        "key": 9402,
+        "item_name": "St. Halssius Priest's Hat",
+        "item_type": "Disc0",
+        "string_key": "Volcker_Fabric_Helm"
+      },
+      {
+        "key": 1002505,
+        "item_name": "White Bear Helm",
+        "item_type": "Disc0",
+        "string_key": "White_Bear_Leather_Helm"
+      },
+      {
+        "key": 104106,
+        "item_name": "Wyvernflame Cloth Helm",
+        "item_type": "Disc0",
+        "string_key": "Sirius_Barley_Fabric_Helm"
+      },
+      {
+        "key": 2113163,
+        "item_name": "Ashclaw Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Tibbletanus_Leather_Armor"
+      },
+      {
         "key": 1164002,
         "item_name": "Beekeeping Suit",
         "item_type": "Disc0",
         "string_key": "Optionary_Beekeeping_Cloth"
+      },
+      {
+        "key": 2133101,
+        "item_name": "Blinding Arrows' Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Light_Arrowhead_Leather_Armor_V"
+      },
+      {
+        "key": 1163809,
+        "item_name": "Camouflage Outfit",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Demeniss_Spy_Cloth"
+      },
+      {
+        "key": 1000164,
+        "item_name": "Dancing Catfish Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Pirate_Fabric_Armor_II"
+      },
+      {
+        "key": 111187,
+        "item_name": "Flame Knights Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Lower_ChainMail_Armor"
+      },
+      {
+        "key": 1163002,
+        "item_name": "Hernandian Attire",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Hernand_Party_Cloth"
+      },
+      {
+        "key": 2133173,
+        "item_name": "Jackals' Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "North_Mercenary_Leather_Armor_II"
+      },
+      {
+        "key": 1002358,
+        "item_name": "Mistcloaked Owl Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Owls_of_the_Mist_Leahter_Armor_V"
+      },
+      {
+        "key": 1001177,
+        "item_name": "Musket Border Guard Standard Armor",
+        "item_type": "Disc0",
+        "string_key": "Hymns_of_Dusk_Fabric_Armor_I"
+      },
+      {
+        "key": 1000246,
+        "item_name": "Riding Attire",
+        "item_type": "Disc0",
+        "string_key": "Riding_Fabric_Armor"
+      },
+      {
+        "key": 114640,
+        "item_name": "Scarlet Blades Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Bleed_Fabric_Armor"
+      },
+      {
+        "key": 1165010,
+        "item_name": "Scholastone Uniform",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Scholar_Stone_Cloth"
+      },
+      {
+        "key": 2133205,
+        "item_name": "Shadowleaf Outfit",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Ent_Cloth"
+      },
+      {
+        "key": 1000021,
+        "item_name": "St. Halssius Priest Attire",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Monk_Cloth"
+      },
+      {
+        "key": 1001413,
+        "item_name": "Windmere Standard Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Noble_Retainer_PlateArmor_Armor_XI"
+      },
+      {
+        "key": 114326,
+        "item_name": "Wyvernflames Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Tokart_Fabric_Armor"
+      },
+      {
+        "key": 1001949,
+        "item_name": "Champion's Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "Muscan_PlateArmor_Gloves"
       },
       {
         "key": 1000840,
@@ -600,10 +1104,304 @@
         "string_key": "Solas_PlateArmor_Gloves_I"
       },
       {
-        "key": 1000321,
-        "item_name": "Beekeeping Cloak",
+        "key": 1001250,
+        "item_name": "Great Thief's Gloves",
         "item_type": "Disc0",
-        "string_key": "Optionary_Beekeeping_Cloak"
+        "string_key": "ThiefGloves"
+      },
+      {
+        "key": 2133190,
+        "item_name": "Insulated Gloves",
+        "item_type": "Disc0",
+        "string_key": "Protect_Electric_Leather_Gloves"
+      },
+      {
+        "key": 1000248,
+        "item_name": "Master Trainer's Touch",
+        "item_type": "Disc0",
+        "string_key": "riding_Leather_Gloves"
+      },
+      {
+        "key": 1001000,
+        "item_name": "Reins of Open Sky",
+        "item_type": "Disc0",
+        "string_key": "Optionary_NonSlip_Gloves"
+      },
+      {
+        "key": 1001300,
+        "item_name": "Strongbow Gloves",
+        "item_type": "Disc0",
+        "string_key": "PowerDraw_Gloves"
+      },
+      {
+        "key": 1001009,
+        "item_name": "Tech Gloves",
+        "item_type": "Disc0",
+        "string_key": "Gadget_Gloves"
+      },
+      {
+        "key": 1001191,
+        "item_name": "Fire Walk Boots",
+        "item_type": "Disc0",
+        "string_key": "Fire_Boots"
+      },
+      {
+        "key": 1001199,
+        "item_name": "Giant's Boots",
+        "item_type": "Disc0",
+        "string_key": "Colossus_Boots"
+      },
+      {
+        "key": 1001296,
+        "item_name": "Pillager's Leather Boots",
+        "item_type": "Disc0",
+        "string_key": "Robbery_Boots"
+      },
+      {
+        "key": 1001145,
+        "item_name": "Stirrups of the Open Sky",
+        "item_type": "Disc0",
+        "string_key": "Optionary_NonSlip_Boots"
+      },
+      {
+        "key": 1000259,
+        "item_name": "Vaporwalker",
+        "item_type": "Disc0",
+        "string_key": "WaterSliding_Plate_Boots"
+      },
+      {
+        "key": 1001531,
+        "item_name": "Bear Hide Cloak",
+        "item_type": "Disc0",
+        "string_key": "Bear_Leather_cloak"
+      },
+      {
+        "key": 1000343,
+        "item_name": "Boar Cloak",
+        "item_type": "Disc0",
+        "string_key": "Camouflage_Boar_Cloak"
+      },
+      {
+        "key": 1000971,
+        "item_name": "Cow Cloak",
+        "item_type": "Disc0",
+        "string_key": "Camouflage_Bull_Cloak"
+      },
+      {
+        "key": 1000324,
+        "item_name": "Disguise Cloak",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Demeniss_Spy_Cloak"
+      },
+      {
+        "key": 1000576,
+        "item_name": "Jackal Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "North_Mercenary_Fabric_Cloak_I"
+      },
+      {
+        "key": 1000715,
+        "item_name": "Reindeer Cloak",
+        "item_type": "Disc0",
+        "string_key": "Camouflage_Reindeer_Cloak"
+      },
+      {
+        "key": 1000444,
+        "item_name": "Wolf Cloak",
+        "item_type": "Disc0",
+        "string_key": "Camouflage_Wolf_Cloak"
+      },
+      {
+        "key": 1000057,
+        "item_name": "Dark Marksman's Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Samuel_PlateArmor_Armor"
+      },
+      {
+        "key": 1000058,
+        "item_name": "Dark Marksman's Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "Samuel_PlateArmor_Gloves"
+      },
+      {
+        "key": 1000059,
+        "item_name": "Dark Marksman's Plate Boots",
+        "item_type": "Disc0",
+        "string_key": "Samuel_Plate_Boots"
+      },
+      {
+        "key": 1000310,
+        "item_name": "Dark Marksman's Plate Cloak",
+        "item_type": "Disc0",
+        "string_key": "Samuel_PlateArmor_Cloak"
+      },
+      {
+        "key": 1000052,
+        "item_name": "Odeck's Protector Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "OrcuMer_PlateArmor_Armor"
+      },
+      {
+        "key": 1000053,
+        "item_name": "Odeck's Protector Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "OrcuMer_PlateArmor_Gloves"
+      },
+      {
+        "key": 1000054,
+        "item_name": "Odeck's Protector Plate Boots",
+        "item_type": "Disc0",
+        "string_key": "OrcuMer_Plate_Boots"
+      },
+      {
+        "key": 1002283,
+        "item_name": "Odeck's Protector Plate Cloak",
+        "item_type": "Disc0",
+        "string_key": "OrcuMer_PlateArmor_Cloak"
+      },
+      {
+        "key": 14511,
+        "item_name": "Bespoke Visione",
+        "item_type": "Disc0",
+        "string_key": "Marni_Devotee_PlateArmor_Helm_I"
+      },
+      {
+        "key": 1000202,
+        "item_name": "Circuit Hijacking Helm",
+        "item_type": "Disc0",
+        "string_key": "Hacking_PlateArmor_Helm"
+      },
+      {
+        "key": 1000102,
+        "item_name": "Constellation Helm",
+        "item_type": "Disc0",
+        "string_key": "Anamorphic_PlateArmor_Helm"
+      },
+      {
+        "key": 1000231,
+        "item_name": "Guard Visione",
+        "item_type": "Disc0",
+        "string_key": "Marni_Devotee_PlateArmor_Helm_II"
+      },
+      {
+        "key": 1000037,
+        "item_name": "Helm of Knowledge",
+        "item_type": "Disc0",
+        "string_key": "Knowledge_PlateArmor_Helm"
+      },
+      {
+        "key": 1002284,
+        "item_name": "Kuku Marni Laser Helm",
+        "item_type": "Disc0",
+        "string_key": "Marni_Laser_Helm_Upgrade"
+      },
+      {
+        "key": 1001400,
+        "item_name": "Marni Laser Helm",
+        "item_type": "Disc0",
+        "string_key": "Marni_Laser_Helm"
+      },
+      {
+        "key": 1000232,
+        "item_name": "Military Visione",
+        "item_type": "Disc0",
+        "string_key": "Marni_Devotee_PlateArmor_Helm_III"
+      },
+      {
+        "key": 356742259,
+        "item_name": "Pororin Petal Hat",
+        "item_type": "Disc0",
+        "string_key": "Florin_Fabric_Helm"
+      },
+      {
+        "key": 1000233,
+        "item_name": "Prototype Visione",
+        "item_type": "Disc0",
+        "string_key": "Marni_Devotee_PlateArmor_Helm_IV"
+      },
+      {
+        "key": 14510,
+        "item_name": "Visione",
+        "item_type": "Disc0",
+        "string_key": "Marni_Devotee_PlateArmor_Helm"
+      },
+      {
+        "key": 1000474,
+        "item_name": "Wooden Mask of Lost Justice",
+        "item_type": "Disc0",
+        "string_key": "Orcumer_Helm"
+      },
+      {
+        "key": 111005,
+        "item_name": "Frostcursed Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "king_LostPeople_PlateArmor_Armor"
+      },
+      {
+        "key": 1002286,
+        "item_name": "Kuku Flame-Resistant Armor",
+        "item_type": "Disc0",
+        "string_key": "Paphneil_PlateArmor_Armor_Upgrade"
+      },
+      {
+        "key": 1002287,
+        "item_name": "Kuku Ice-Resistant Armor",
+        "item_type": "Disc0",
+        "string_key": "king_LostPeople_PlateArmor_Armor_Upgrade"
+      },
+      {
+        "key": 1002285,
+        "item_name": "Kuku Lightning-Resistant Armor",
+        "item_type": "Disc0",
+        "string_key": "Titan_PlateArmor_Armor_Upgrade"
+      },
+      {
+        "key": 1001326,
+        "item_name": "Lightning Bolt Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Titan_PlateArmor_Armor"
+      },
+      {
+        "key": 114595,
+        "item_name": "The Masked Liberator's Cloth Armor",
+        "item_type": "Disc0",
+        "string_key": "Heisellen_Fabric_Armor"
+      },
+      {
+        "key": 111249,
+        "item_name": "Scorchflame Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Paphneil_PlateArmor_Armor"
+      },
+      {
+        "key": 1001299,
+        "item_name": "Kuku Breeze-Step Boots",
+        "item_type": "Disc0",
+        "string_key": "JumpUp_Boots"
+      },
+      {
+        "key": 1000316,
+        "item_name": "Kuku Rishi's Boots",
+        "item_type": "Disc0",
+        "string_key": "Riesi_Boots_Upgrade"
+      },
+      {
+        "key": 1000074,
+        "item_name": "Shoddy Rishi's Boots",
+        "item_type": "Disc0",
+        "string_key": "Riesi_Boots"
+      },
+      {
+        "key": 2131006,
+        "item_name": "Tidebreaker Boots",
+        "item_type": "Disc0",
+        "string_key": "IncreaseSwimmingSpeed_Plate_Boots"
+      },
+      {
+        "key": 1003928,
+        "item_name": "Greymane Cloth Cloak",
+        "item_type": "Disc0",
+        "string_key": "Demian_Greyfur_Fabric_Cloak_I"
       }
     ]
   },
@@ -2424,6 +3222,18 @@
     "localtion": "https://mapgenie.io/crimson-desert/maps/pywel?locationIds=544006",
     "sell_list": [
       {
+        "key": 22009,
+        "item_name": "Holy Water",
+        "item_type": "Disc0",
+        "string_key": "HolyWater"
+      },
+      {
+        "key": 802204,
+        "item_name": "St. Halssius Visitor Pass",
+        "item_type": "Disc0",
+        "string_key": "MonasteryVisitorPass"
+      },
+      {
         "key": 1000530,
         "item_name": "Accessories of the World, Vol. I",
         "item_type": "Disc0",
@@ -2448,562 +3258,40 @@
         "string_key": "Recipe_Book_Accessory_IV"
       },
       {
-        "key": 1002771,
-        "item_name": "Aeserion Gear Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Dragon_Weapon"
-      },
-      {
-        "key": 1003270,
-        "item_name": "Alchemy Formula: Apollonia's Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DPV_LV2"
-      },
-      {
-        "key": 1003271,
-        "item_name": "Alchemy Formula: Apollonia's Greater Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DPV_LV3"
-      },
-      {
-        "key": 1003269,
-        "item_name": "Alchemy Formula: Apollonia's Lesser Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DPV_LV1"
-      },
-      {
-        "key": 1003279,
-        "item_name": "Alchemy Formula: Astrid's Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_SP_LV2"
-      },
-      {
-        "key": 1003280,
-        "item_name": "Alchemy Formula: Astrid's Greater Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_SP_LV3"
-      },
-      {
-        "key": 1003278,
-        "item_name": "Alchemy Formula: Astrid's Lesser Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_SP_LV1"
-      },
-      {
-        "key": 1003267,
-        "item_name": "Alchemy Formula: Freya's Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DDD_LV2"
-      },
-      {
-        "key": 1003268,
-        "item_name": "Alchemy Formula: Freya's Greater Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DDD_LV3"
-      },
-      {
-        "key": 1003266,
-        "item_name": "Alchemy Formula: Freya's Lesser Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_DDD_LV1"
-      },
-      {
-        "key": 1003361,
-        "item_name": "Alchemy Formula: Gold Bar",
-        "item_type": "Disc0",
-        "string_key": "Recipe_GoldBar"
-      },
-      {
-        "key": 1003276,
-        "item_name": "Alchemy Formula: Haiden's Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_MP_LV2"
-      },
-      {
-        "key": 1003277,
-        "item_name": "Alchemy Formula: Haiden's Greater Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_MP_LV3"
-      },
-      {
-        "key": 1003275,
-        "item_name": "Alchemy Formula: Haiden's Lesser Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_MP_LV1"
-      },
-      {
-        "key": 1003273,
-        "item_name": "Alchemy Formula: Meliara's Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_HP_LV2"
-      },
-      {
-        "key": 1003274,
-        "item_name": "Alchemy Formula: Meliara's Greater Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_HP_LV3"
-      },
-      {
-        "key": 1003272,
-        "item_name": "Alchemy Formula: Meliara's Lesser Elixir",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Potion_HP_LV1"
-      },
-      {
-        "key": 1002551,
-        "item_name": "Alchemy Formula: Palmar Pill",
-        "item_type": "Disc0",
-        "string_key": "Recipe_RevivalItemPartialRecovery"
-      },
-      {
-        "key": 1003360,
-        "item_name": "Alchemy Formula: Platinum",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Platinum"
-      },
-      {
-        "key": 1002527,
-        "item_name": "Alchemy Formula: Refined Palmar Pill",
-        "item_type": "Disc0",
-        "string_key": "Recipe_RevivalItem"
-      },
-      {
         "key": 1000690,
         "item_name": "Beekeeper Gear Blueprint",
         "item_type": "Disc0",
         "string_key": "Recipe_Book_Beekeeping"
       },
       {
-        "key": 1000983,
-        "item_name": "Belkandor Plate Armor Blueprint",
+        "key": 1000714,
+        "item_name": "Shadowleaf Disguise Blueprint",
         "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Oongka_PlateArmor_Armor_III"
+        "string_key": "Recipe_Book_Ent"
       },
       {
-        "key": 1000990,
-        "item_name": "Belkandor Plate Boots Blueprint",
+        "key": 1001746,
+        "item_name": "Fine Logging Axe Blueprint",
         "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Oongka_PlateArmor_Boots_III"
+        "string_key": "Recipe_Book_Equip_Felling_Axe_I"
       },
       {
-        "key": 1000984,
-        "item_name": "Belkandor Plate Cloak Blueprint",
+        "key": 1003663,
+        "item_name": "Olvald's Logging Axe Blueprint",
         "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Oongka_PlateArmor_Cloak_III"
+        "string_key": "Recipe_Book_Equip_Felling_Axe_II"
       },
       {
-        "key": 1000988,
-        "item_name": "Belkandor Plate Gloves Blueprint",
+        "key": 1003662,
+        "item_name": "Fine Pickaxe Blueprint",
         "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Oongka_PlateArmor_Gloves_III"
-      },
-      {
-        "key": 1000999,
-        "item_name": "Belkandor Plate Helm Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Oongka_PlateArmor_Helm_III"
+        "string_key": "Recipe_Book_Equip_Pickaxe_I"
       },
       {
         "key": 1003664,
         "item_name": "Bernor's Pickaxe Blueprint",
         "item_type": "Disc0",
         "string_key": "Recipe_Book_Equip_Pickaxe_II"
-      },
-      {
-        "key": 1004642,
-        "item_name": "Blueprint: Anvil",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_craft_anvil_01"
-      },
-      {
-        "key": 1004644,
-        "item_name": "Blueprint: Bonfire",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_05"
-      },
-      {
-        "key": 1004677,
-        "item_name": "Blueprint: Brick Roof Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0002"
-      },
-      {
-        "key": 1004665,
-        "item_name": "Blueprint: Bright Wooden Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_streetlamp_03_index02"
-      },
-      {
-        "key": 1004681,
-        "item_name": "Blueprint: Brookfield Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_drinkingfountain_01"
-      },
-      {
-        "key": 1004699,
-        "item_name": "Blueprint: Clanging King",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Collection_Prop_Automata_0003"
-      },
-      {
-        "key": 1004697,
-        "item_name": "Blueprint: Clanging Little Knight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Collection_Prop_Automata_0001"
-      },
-      {
-        "key": 1004698,
-        "item_name": "Blueprint: Clanging Red Jester",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Collection_Prop_Automata_0002"
-      },
-      {
-        "key": 1004666,
-        "item_name": "Blueprint: Cold Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001"
-      },
-      {
-        "key": 1004657,
-        "item_name": "Blueprint: Crow Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0005"
-      },
-      {
-        "key": 1004710,
-        "item_name": "Blueprint: Double Mist-woven Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008_index01"
-      },
-      {
-        "key": 1004656,
-        "item_name": "Blueprint: Duck Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0004"
-      },
-      {
-        "key": 1001525,
-        "item_name": "Blueprint: Faded Abyss Artifact",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Deactived_Abyss_Artifact"
-      },
-      {
-        "key": 1004828,
-        "item_name": "Blueprint: Faust's Music Box",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_jukebox_0001"
-      },
-      {
-        "key": 1004643,
-        "item_name": "Blueprint: Field Pot",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_04"
-      },
-      {
-        "key": 1004655,
-        "item_name": "Blueprint: Four-Way Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0003"
-      },
-      {
-        "key": 1004703,
-        "item_name": "Blueprint: Frost-woven Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0003"
-      },
-      {
-        "key": 1004641,
-        "item_name": "Blueprint: Grindstone",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_tool_blacksmithstone"
-      },
-      {
-        "key": 1004649,
-        "item_name": "Blueprint: Hexagonal Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_firepot_06_on"
-      },
-      {
-        "key": 1004707,
-        "item_name": "Blueprint: Large Moonlit Garden Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006_index01"
-      },
-      {
-        "key": 1004711,
-        "item_name": "Blueprint: Large Rosy Dragonscale Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0009"
-      },
-      {
-        "key": 1004708,
-        "item_name": "Blueprint: Large Stone Knotted Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0007"
-      },
-      {
-        "key": 1004706,
-        "item_name": "Blueprint: Large Twilight Floral Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006"
-      },
-      {
-        "key": 1004683,
-        "item_name": "Blueprint: Leaf Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_dpf_fountain_09"
-      },
-      {
-        "key": 1004682,
-        "item_name": "Blueprint: Lion Head Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_dpf_fountain_01"
-      },
-      {
-        "key": 1004696,
-        "item_name": "Blueprint: Marni Cat Wheel",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_catwheel_02"
-      },
-      {
-        "key": 1004702,
-        "item_name": "Blueprint: Mist-woven Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0002"
-      },
-      {
-        "key": 1004704,
-        "item_name": "Blueprint: Moonlit Garden Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0004"
-      },
-      {
-        "key": 1004654,
-        "item_name": "Blueprint: Pheasant Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0002"
-      },
-      {
-        "key": 1004695,
-        "item_name": "Blueprint: Pororin Cat Wheel",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_catwheel_01"
-      },
-      {
-        "key": 1004650,
-        "item_name": "Blueprint: Quad-Base Crown of Thorns Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_brazier_02_on"
-      },
-      {
-        "key": 1004676,
-        "item_name": "Blueprint: Red Wooden Roof Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0001_index01"
-      },
-      {
-        "key": 1004664,
-        "item_name": "Blueprint: Red Wooden Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_streetlamp_03_index01"
-      },
-      {
-        "key": 1004659,
-        "item_name": "Blueprint: Red-Crowned Crane Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0007"
-      },
-      {
-        "key": 1004685,
-        "item_name": "Blueprint: Redsand Stone Pagoda Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_dpf_fountain_02_desert"
-      },
-      {
-        "key": 1004680,
-        "item_name": "Blueprint: Redsand Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0004_index01"
-      },
-      {
-        "key": 1004672,
-        "item_name": "Blueprint: Redtree Violet Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_04"
-      },
-      {
-        "key": 1004705,
-        "item_name": "Blueprint: Rhombic Vermillion Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0005"
-      },
-      {
-        "key": 1004653,
-        "item_name": "Blueprint: Rope Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0001"
-      },
-      {
-        "key": 1004701,
-        "item_name": "Blueprint: Round Twilight Floral Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0001"
-      },
-      {
-        "key": 1004687,
-        "item_name": "Blueprint: Sculpted Fish Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_fountain_statue_02"
-      },
-      {
-        "key": 1004647,
-        "item_name": "Blueprint: Short Quad-Base Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_firepot_04_on"
-      },
-      {
-        "key": 1004686,
-        "item_name": "Blueprint: Silent Gazer Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_dpf_fountain_06"
-      },
-      {
-        "key": 1004668,
-        "item_name": "Blueprint: Soft Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index02"
-      },
-      {
-        "key": 1004661,
-        "item_name": "Blueprint: Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0009"
-      },
-      {
-        "key": 1004658,
-        "item_name": "Blueprint: Stone Duck Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0006"
-      },
-      {
-        "key": 1004660,
-        "item_name": "Blueprint: Stone Nest Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0008"
-      },
-      {
-        "key": 1004684,
-        "item_name": "Blueprint: Stone Pagoda Fountain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_dpf_fountain_02"
-      },
-      {
-        "key": 1004709,
-        "item_name": "Blueprint: Sunset Plaid Carpet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008"
-      },
-      {
-        "key": 1004646,
-        "item_name": "Blueprint: Tall Quad-Base Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_firepot_03_on"
-      },
-      {
-        "key": 1004678,
-        "item_name": "Blueprint: Thatched Roof Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0003"
-      },
-      {
-        "key": 1004645,
-        "item_name": "Blueprint: Tripod Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_firepot_01_on"
-      },
-      {
-        "key": 1004652,
-        "item_name": "Blueprint: Tripod Guardian Torch",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_standtorch_02_on"
-      },
-      {
-        "key": 1004651,
-        "item_name": "Blueprint: Tripod Guide Torch",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_standtorch_01_on"
-      },
-      {
-        "key": 1004662,
-        "item_name": "Blueprint: Twin-Branched Sotdae",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_sotdae_set_0010"
-      },
-      {
-        "key": 1004700,
-        "item_name": "Blueprint: VZ-O and Z-One",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Collection_Prop_Automata_0004"
-      },
-      {
-        "key": 1004667,
-        "item_name": "Blueprint: Warm Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index01"
-      },
-      {
-        "key": 1004679,
-        "item_name": "Blueprint: Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0004"
-      },
-      {
-        "key": 1004648,
-        "item_name": "Blueprint: Wind-Guarded Quad-Base Brazier",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_firepot_05_on"
-      },
-      {
-        "key": 1004674,
-        "item_name": "Blueprint: Wooden Florindale Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_02"
-      },
-      {
-        "key": 1004669,
-        "item_name": "Blueprint: Wooden Gerbera Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_01"
-      },
-      {
-        "key": 1004673,
-        "item_name": "Blueprint: Wooden Pororin Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_01"
-      },
-      {
-        "key": 1004671,
-        "item_name": "Blueprint: Wooden Purple Gerbera Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_03"
-      },
-      {
-        "key": 1004675,
-        "item_name": "Blueprint: Wooden Roof Well",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_gimmick_well_0001"
-      },
-      {
-        "key": 1004663,
-        "item_name": "Blueprint: Wooden Streetlight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_lamp_streetlamp_03"
-      },
-      {
-        "key": 1004670,
-        "item_name": "Blueprint: Wooden Violet Hanging Planter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_02"
       },
       {
         "key": 1000434,
@@ -3030,658 +3318,10 @@
         "string_key": "Recipe_Book_FabricArmor_IV"
       },
       {
-        "key": 1002204,
-        "item_name": "Elegant Carmine Armor Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Demian_Leather_Armor_V"
-      },
-      {
-        "key": 1002553,
-        "item_name": "Elegant Carmine Cloak Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Demian_Leather_Cloak_I"
-      },
-      {
-        "key": 1002550,
-        "item_name": "Elegant Carmine Gloves Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Demian_PlateArmor_Gloves_VI"
-      },
-      {
-        "key": 1002203,
-        "item_name": "Elegant Carmine Helm Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Demian_PlateArmor_Helm_XIII"
-      },
-      {
         "key": 1002292,
         "item_name": "Fine Fishing Rod Blueprint",
         "item_type": "Disc0",
         "string_key": "Recipe_Book_FishingRod_II"
-      },
-      {
-        "key": 1001746,
-        "item_name": "Fine Logging Axe Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Equip_Felling_Axe_I"
-      },
-      {
-        "key": 1003662,
-        "item_name": "Fine Pickaxe Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Equip_Pickaxe_I"
-      },
-      {
-        "key": 1002149,
-        "item_name": "Flame Spear Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Spear_Fire"
-      },
-      {
-        "key": 1000980,
-        "item_name": "Fluttering Radiance Plate Boots",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Demian_Pure_White_Plate_Boots_II"
-      },
-      {
-        "key": 1002541,
-        "item_name": "Gear Blueprint: Abyssal Assimilation",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AbyssGrass_Immune"
-      },
-      {
-        "key": 1002490,
-        "item_name": "Gear Blueprint: Abyssal Rays",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_PhantomStab_LV1"
-      },
-      {
-        "key": 1003729,
-        "item_name": "Gear Blueprint: Abyssbane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Creature_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1002774,
-        "item_name": "Gear Blueprint: Aegis",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_ADR_LV1"
-      },
-      {
-        "key": 1002650,
-        "item_name": "Gear Blueprint: Ancient Reckoning",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Primus"
-      },
-      {
-        "key": 1003723,
-        "item_name": "Gear Blueprint: Ancient Retribution",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Priscus"
-      },
-      {
-        "key": 1003722,
-        "item_name": "Gear Blueprint: Ancient Wrath",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Praevus"
-      },
-      {
-        "key": 1003741,
-        "item_name": "Gear Blueprint: Aptitude",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_SkillPointExp_LV1"
-      },
-      {
-        "key": 1002531,
-        "item_name": "Gear Blueprint: Arrow Rain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_ArrowRain_LV1"
-      },
-      {
-        "key": 1002778,
-        "item_name": "Gear Blueprint: Ascent",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_ClimbSpeedRate_LV1"
-      },
-      {
-        "key": 1002534,
-        "item_name": "Gear Blueprint: Ator's Orb",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AtorDrone_LV1"
-      },
-      {
-        "key": 1003728,
-        "item_name": "Gear Blueprint: Beastbane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CommonAnimal_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1003738,
-        "item_name": "Gear Blueprint: Blessing of Nature",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Plant_LV1"
-      },
-      {
-        "key": 1003739,
-        "item_name": "Gear Blueprint: Blessing of the Beast",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Animal_LV1"
-      },
-      {
-        "key": 1003737,
-        "item_name": "Gear Blueprint: Blessing of the Earth",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Ore_LV1"
-      },
-      {
-        "key": 1002653,
-        "item_name": "Gear Blueprint: Blessing of the Forest",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Log_LV1"
-      },
-      {
-        "key": 1002571,
-        "item_name": "Gear Blueprint: Bloodbane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CommonHumanoid_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1002642,
-        "item_name": "Gear Blueprint: Colossal Might",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Ogre"
-      },
-      {
-        "key": 1003743,
-        "item_name": "Gear Blueprint: Companionship",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Equip_AddPetFriendly_LV1"
-      },
-      {
-        "key": 1002746,
-        "item_name": "Gear Blueprint: Composure",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_MpRegen_LV1"
-      },
-      {
-        "key": 1002856,
-        "item_name": "Gear Blueprint: Crescent Moon Slash",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_1_LV1"
-      },
-      {
-        "key": 1002489,
-        "item_name": "Gear Blueprint: Crow Storm",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CrowStorm_LV1"
-      },
-      {
-        "key": 1002390,
-        "item_name": "Gear Blueprint: Crow's Pursuit",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CrowAttack_LV1"
-      },
-      {
-        "key": 1002890,
-        "item_name": "Gear Blueprint: Dark Crescent",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Antumbra_TwoHandRod"
-      },
-      {
-        "key": 1002712,
-        "item_name": "Gear Blueprint: Destruction",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_DDD_LV1"
-      },
-      {
-        "key": 1003228,
-        "item_name": "Gear Blueprint: Disarm",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_EquipDropRate_LV1"
-      },
-      {
-        "key": 1002891,
-        "item_name": "Gear Blueprint: Earthrending Strike",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_TarandusWarrior_WarHammer"
-      },
-      {
-        "key": 1002645,
-        "item_name": "Gear Blueprint: Efficiency",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_ReduceCraftMaterial_LV1"
-      },
-      {
-        "key": 1003730,
-        "item_name": "Gear Blueprint: Energy Drain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddKillSkillLevel_LV1"
-      },
-      {
-        "key": 1003742,
-        "item_name": "Gear Blueprint: Equestrian",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Equip_AddHorseExp_LV1"
-      },
-      {
-        "key": 1003696,
-        "item_name": "Gear Blueprint: Flames of Judgment",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Bastier"
-      },
-      {
-        "key": 1002528,
-        "item_name": "Gear Blueprint: Flameward",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_FireResistance_LV1"
-      },
-      {
-        "key": 1002773,
-        "item_name": "Gear Blueprint: Fortification",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_DPV_LV1"
-      },
-      {
-        "key": 1002775,
-        "item_name": "Gear Blueprint: Fortitude",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_GuardPVRate_LV1"
-      },
-      {
-        "key": 1002594,
-        "item_name": "Gear Blueprint: Fortune",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddMoneyDropRate_LV1"
-      },
-      {
-        "key": 1000733,
-        "item_name": "Gear Blueprint: Frost Hail",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FrostBreath_LV1"
-      },
-      {
-        "key": 1002803,
-        "item_name": "Gear Blueprint: Frost Spike",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FrostSpike_LV1"
-      },
-      {
-        "key": 1002529,
-        "item_name": "Gear Blueprint: Frostward",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_IceResistance_LV1"
-      },
-      {
-        "key": 1002877,
-        "item_name": "Gear Blueprint: Fullmoon Slash",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_3_LV1"
-      },
-      {
-        "key": 1002644,
-        "item_name": "Gear Blueprint: Gourmet",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FoodSkillLevelUp_LV1"
-      },
-      {
-        "key": 1003719,
-        "item_name": "Gear Blueprint: Greysoul Howling",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_DarkChase_LV1"
-      },
-      {
-        "key": 1001423,
-        "item_name": "Gear Blueprint: Groundsurge",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_LandMash_LV1"
-      },
-      {
-        "key": 1002859,
-        "item_name": "Gear Blueprint: Half Moon Slash",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_2_LV1"
-      },
-      {
-        "key": 1002777,
-        "item_name": "Gear Blueprint: Haste",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_MoveSpeedRate_LV1"
-      },
-      {
-        "key": 1002545,
-        "item_name": "Gear Blueprint: Heart of Stone",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Immune_Bismuth"
-      },
-      {
-        "key": 1002544,
-        "item_name": "Gear Blueprint: Heart of the Serpent",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Hyena_PoisonImmune"
-      },
-      {
-        "key": 1002570,
-        "item_name": "Gear Blueprint: Hexebane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CommonHexe_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1002483,
-        "item_name": "Gear Blueprint: Hound's Claws",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_DogClaw_LV1"
-      },
-      {
-        "key": 1003726,
-        "item_name": "Gear Blueprint: Howling of Chaos",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_ImpBoss"
-      },
-      {
-        "key": 1002643,
-        "item_name": "Gear Blueprint: Infinite Arrows",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_BlockAmmoConsume_LV1"
-      },
-      {
-        "key": 1002714,
-        "item_name": "Gear Blueprint: Insight",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_CriticalRate_LV1"
-      },
-      {
-        "key": 1002639,
-        "item_name": "Gear Blueprint: Judgment of the Soul",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Forgotten_General"
-      },
-      {
-        "key": 1002481,
-        "item_name": "Gear Blueprint: Karmic Pulse",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_EnlightenmentWave_LV1"
-      },
-      {
-        "key": 1002532,
-        "item_name": "Gear Blueprint: Kinetic Burst",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_EnergyBurst_LV1"
-      },
-      {
-        "key": 1003736,
-        "item_name": "Gear Blueprint: Ledgermain",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AdditionalThief_LV1"
-      },
-      {
-        "key": 1003731,
-        "item_name": "Gear Blueprint: Life Transference",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_HPRecover_LV1"
-      },
-      {
-        "key": 1003727,
-        "item_name": "Gear Blueprint: Lightning God's Affliction",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Titan"
-      },
-      {
-        "key": 1002579,
-        "item_name": "Gear Blueprint: Malicebane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Boss_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1002546,
-        "item_name": "Gear Blueprint: Momentum",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_DAM_UP_RotationBash"
-      },
-      {
-        "key": 1002558,
-        "item_name": "Gear Blueprint: Orbs of Lightning",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_LightningBreath_LV1"
-      },
-      {
-        "key": 1002878,
-        "item_name": "Gear Blueprint: Order from Above",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Merrick"
-      },
-      {
-        "key": 1003725,
-        "item_name": "Gear Blueprint: Parting Gift",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_LanFord"
-      },
-      {
-        "key": 1002494,
-        "item_name": "Gear Blueprint: Piercing Bloom",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AbsoluteDefense_LV1"
-      },
-      {
-        "key": 1002649,
-        "item_name": "Gear Blueprint: Pillar of Wind",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Karanda"
-      },
-      {
-        "key": 1002574,
-        "item_name": "Gear Blueprint: Primalbane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_CommonGolem_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1003724,
-        "item_name": "Gear Blueprint: Putrid Touch",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Skevald"
-      },
-      {
-        "key": 1003721,
-        "item_name": "Gear Blueprint: Queen's Fangs",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_QueenSpider"
-      },
-      {
-        "key": 1003734,
-        "item_name": "Gear Blueprint: Relentless",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Combo_LV1"
-      },
-      {
-        "key": 1001436,
-        "item_name": "Gear Blueprint: Rend",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_LeatherArmor_LV1"
-      },
-      {
-        "key": 1002648,
-        "item_name": "Gear Blueprint: Rising Torrent",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Catfish_BodySlam_LV1"
-      },
-      {
-        "key": 1003740,
-        "item_name": "Gear Blueprint: Service",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_ContributionExp_LV1"
-      },
-      {
-        "key": 1003720,
-        "item_name": "Gear Blueprint: Shadow Claw",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Leebur"
-      },
-      {
-        "key": 1000426,
-        "item_name": "Gear Blueprint: Shatter",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_PlateArmor_LV1"
-      },
-      {
-        "key": 1002804,
-        "item_name": "Gear Blueprint: Shattering Frost",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FrostDeath_LV1"
-      },
-      {
-        "key": 1002530,
-        "item_name": "Gear Blueprint: Shockward",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_ElectricityResistance_LV1"
-      },
-      {
-        "key": 1003758,
-        "item_name": "Gear Blueprint: Shred",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_FabricArmor_LV1"
-      },
-      {
-        "key": 1002478,
-        "item_name": "Gear Blueprint: Slashing Reeds",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FlashCombo_LV1"
-      },
-      {
-        "key": 1002654,
-        "item_name": "Gear Blueprint: Solidarity",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_AddFrendly_LV1"
-      },
-      {
-        "key": 1003732,
-        "item_name": "Gear Blueprint: Spirit Transference",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_MPRecover_LV1"
-      },
-      {
-        "key": 1002388,
-        "item_name": "Gear Blueprint: Spirit's Judgment",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_SoulStrike_LV1"
-      },
-      {
-        "key": 1003733,
-        "item_name": "Gear Blueprint: Stamina Transference",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_SPRecover_LV1"
-      },
-      {
-        "key": 1002568,
-        "item_name": "Gear Blueprint: Steelbane",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Machine_AdditionalDamage_LV1"
-      },
-      {
-        "key": 1002480,
-        "item_name": "Gear Blueprint: Storm Fang",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_LightningStab_LV1"
-      },
-      {
-        "key": 1002525,
-        "item_name": "Gear Blueprint: Surge",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_SwimSpeedRate_LV1"
-      },
-      {
-        "key": 1002776,
-        "item_name": "Gear Blueprint: Swift",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_AttackSpeedRate_LV1"
-      },
-      {
-        "key": 1002769,
-        "item_name": "Gear Blueprint: Tempest of Destruction",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_SmashStorm_LV1"
-      },
-      {
-        "key": 1002651,
-        "item_name": "Gear Blueprint: The Showstopper",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Muscan"
-      },
-      {
-        "key": 1000190,
-        "item_name": "Gear Blueprint: Vigor",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_StaminaRegen_LV1"
-      },
-      {
-        "key": 1002780,
-        "item_name": "Gear Blueprint: Vitality",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Stat_AbyssGear_HpRegen_LV1"
-      },
-      {
-        "key": 1000734,
-        "item_name": "Gear Blueprint: Volcanic Eruption",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_FireBreath_LV1"
-      },
-      {
-        "key": 1002762,
-        "item_name": "Gear Blueprint: Warden of Darkness",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_Antumbra_Spear"
-      },
-      {
-        "key": 1002479,
-        "item_name": "Gear Blueprint: Wind Slash",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_SwordAura_LV1"
-      },
-      {
-        "key": 1002596,
-        "item_name": "Gear Blueprint: Wound of Darkness",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Item_Skill_AbyssGear_DarkenRobe_LV1"
-      },
-      {
-        "key": 22009,
-        "item_name": "Holy Water",
-        "item_type": "Disc0",
-        "string_key": "HolyWater"
-      },
-      {
-        "key": 1003652,
-        "item_name": "Kuku Gear Special Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Pot_Arms_Book"
-      },
-      {
-        "key": 1002129,
-        "item_name": "Kuku Pack Special Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Pot_Backpack_Book"
-      },
-      {
-        "key": 1001420,
-        "item_name": "Kuku Pot Special Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Pot_Book"
-      },
-      {
-        "key": 1002311,
-        "item_name": "Kuku Robot Special Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Pot_Machine_Book"
-      },
-      {
-        "key": 1002128,
-        "item_name": "Kuku Spear Special Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Pot_Spear_Book"
-      },
-      {
-        "key": 1000425,
-        "item_name": "Kuku Transmission Pack Blueprint",
-        "item_type": "Disc0",
-        "string_key": "CraftingRecipe_Kuku_Golden999K"
       },
       {
         "key": 1000428,
@@ -3708,22 +3348,28 @@
         "string_key": "Recipe_Book_LeatherArmor_IV"
       },
       {
-        "key": 1002840,
-        "item_name": "Letter from Grimnir",
+        "key": 1000414,
+        "item_name": "Shields of the World, Vol. I",
         "item_type": "Disc0",
-        "string_key": "Quest_Paper_Recipe_KuKu_Pot_RoketBag"
+        "string_key": "Recipe_Book_OneHandShield_I"
       },
       {
-        "key": 1002162,
-        "item_name": "Lightning Spear Blueprint",
+        "key": 1000415,
+        "item_name": "Shields of the World, Vol. II",
         "item_type": "Disc0",
-        "string_key": "Recipe_Book_Spear_Lightning"
+        "string_key": "Recipe_Book_OneHandShield_II"
       },
       {
-        "key": 1003663,
-        "item_name": "Olvald's Logging Axe Blueprint",
+        "key": 1000417,
+        "item_name": "Shields of the World, Vol. III",
         "item_type": "Disc0",
-        "string_key": "Recipe_Book_Equip_Felling_Axe_II"
+        "string_key": "Recipe_Book_OneHandShield_III"
+      },
+      {
+        "key": 1000418,
+        "item_name": "Shields of the World, Vol. IV",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Book_OneHandShield_IV"
       },
       {
         "key": 1002086,
@@ -3780,40 +3426,10 @@
         "string_key": "Recipe_Book_Posion_Aroww"
       },
       {
-        "key": 1002161,
-        "item_name": "Propeller Spear Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Spear_Wind"
-      },
-      {
         "key": 1004110,
         "item_name": "Pumpkin Head Crafting Manual",
         "item_type": "Disc0",
         "string_key": "Recipe_Book_Pumpkin_Helm"
-      },
-      {
-        "key": 1000405,
-        "item_name": "Ranged Weapons of the World - Bows, Vol. I",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_RangeWeapon_Wood_I"
-      },
-      {
-        "key": 1000406,
-        "item_name": "Ranged Weapons of the World - Bows, Vol. II",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_RangeWeapon_Wood_II"
-      },
-      {
-        "key": 1000407,
-        "item_name": "Ranged Weapons of the World - Bows, Vol. III",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_RangeWeapon_Wood_III"
-      },
-      {
-        "key": 1000408,
-        "item_name": "Ranged Weapons of the World - Bows, Vol. IV",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_RangeWeapon_Wood_IV"
       },
       {
         "key": 1000409,
@@ -3840,70 +3456,1186 @@
         "string_key": "Recipe_Book_RangeWeapon_Metal_IV"
       },
       {
-        "key": 80412,
-        "item_name": "Recipe: Antler Tea",
+        "key": 1000405,
+        "item_name": "Ranged Weapons of the World - Bows, Vol. I",
         "item_type": "Disc0",
-        "string_key": "Recipe_DeerAntler_Fruit_Tea"
+        "string_key": "Recipe_Book_RangeWeapon_Wood_I"
       },
       {
-        "key": 1000719,
-        "item_name": "Recipe: Assorted Braised Fish",
+        "key": 1000406,
+        "item_name": "Ranged Weapons of the World - Bows, Vol. II",
         "item_type": "Disc0",
-        "string_key": "Recipe_Full_Course_of_Braised_Fish"
+        "string_key": "Recipe_Book_RangeWeapon_Wood_II"
       },
       {
-        "key": 1000527,
-        "item_name": "Recipe: Assorted Meat and Fish Skewers",
+        "key": 1000407,
+        "item_name": "Ranged Weapons of the World - Bows, Vol. III",
         "item_type": "Disc0",
-        "string_key": "Recipe_Meat_Fish_Fruit_Sanjeok"
+        "string_key": "Recipe_Book_RangeWeapon_Wood_III"
       },
       {
-        "key": 1000154,
-        "item_name": "Recipe: Battered Fish",
+        "key": 1000408,
+        "item_name": "Ranged Weapons of the World - Bows, Vol. IV",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Fish_Pancake"
+        "string_key": "Recipe_Book_RangeWeapon_Wood_IV"
       },
       {
-        "key": 1000257,
-        "item_name": "Recipe: Battered Grains",
+        "key": 1000841,
+        "item_name": "Scarecrow Cloak Blueprint",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Grain_Pancake"
+        "string_key": "Recipe_Book_Scarecrow_Camouflage_Cloak"
       },
       {
-        "key": 1000687,
-        "item_name": "Recipe: Battered Harvest Roll",
+        "key": 1002149,
+        "item_name": "Flame Spear Blueprint",
         "item_type": "Disc0",
-        "string_key": "Recipe_Kimbap"
+        "string_key": "Recipe_Book_Spear_Fire"
       },
       {
-        "key": 1000087,
-        "item_name": "Recipe: Battered Meat",
+        "key": 1002162,
+        "item_name": "Lightning Spear Blueprint",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Meat_Pancake"
+        "string_key": "Recipe_Book_Spear_Lightning"
       },
       {
-        "key": 1000450,
-        "item_name": "Recipe: Battered Meat and Fish",
+        "key": 1002161,
+        "item_name": "Propeller Spear Blueprint",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Meat_Fish_Pancake"
+        "string_key": "Recipe_Book_Spear_Wind"
       },
       {
-        "key": 1000503,
-        "item_name": "Recipe: Battered Seafood",
+        "key": 1000401,
+        "item_name": "Two-Handed Weapons of the World, Vol. I",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Fish_Vegetable_Pancake"
+        "string_key": "Recipe_Book_TwoHandWeapon_I"
       },
       {
-        "key": 1000199,
-        "item_name": "Recipe: Battered Vegetables",
+        "key": 1000402,
+        "item_name": "Two-Handed Weapons of the World, Vol. II",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Vegetable_Pancake"
+        "string_key": "Recipe_Book_TwoHandWeapon_II"
       },
       {
-        "key": 80406,
-        "item_name": "Recipe: Bird Soup",
+        "key": 1000403,
+        "item_name": "Two-Handed Weapons of the World, Vol. III",
         "item_type": "Disc0",
-        "string_key": "Recipe_SamGyeTang"
+        "string_key": "Recipe_Book_TwoHandWeapon_III"
+      },
+      {
+        "key": 1000404,
+        "item_name": "Two-Handed Weapons of the World, Vol. IV",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Book_TwoHandWeapon_IV"
+      },
+      {
+        "key": 1000755,
+        "item_name": "Varnian Equipment Blueprint",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Book_Varnia"
+      },
+      {
+        "key": 1000641,
+        "item_name": "Wells Military Tack Blueprint",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Book_Wells_HorseArmor"
+      },
+      {
+        "key": 1000620,
+        "item_name": "Recipe: Pan-Fried Rice Cakes",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Gungjung_Tteokbokki"
+      },
+      {
+        "key": 1002774,
+        "item_name": "Gear Blueprint: Aegis",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_ADR_LV1"
+      },
+      {
+        "key": 1002776,
+        "item_name": "Gear Blueprint: Swift",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_AttackSpeedRate_LV1"
+      },
+      {
+        "key": 1002778,
+        "item_name": "Gear Blueprint: Ascent",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_ClimbSpeedRate_LV1"
+      },
+      {
+        "key": 1002714,
+        "item_name": "Gear Blueprint: Insight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_CriticalRate_LV1"
+      },
+      {
+        "key": 1002712,
+        "item_name": "Gear Blueprint: Destruction",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_DDD_LV1"
+      },
+      {
+        "key": 1002773,
+        "item_name": "Gear Blueprint: Fortification",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_DPV_LV1"
+      },
+      {
+        "key": 1002530,
+        "item_name": "Gear Blueprint: Shockward",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_ElectricityResistance_LV1"
+      },
+      {
+        "key": 1002528,
+        "item_name": "Gear Blueprint: Flameward",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_FireResistance_LV1"
+      },
+      {
+        "key": 1002775,
+        "item_name": "Gear Blueprint: Fortitude",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_GuardPVRate_LV1"
+      },
+      {
+        "key": 1002780,
+        "item_name": "Gear Blueprint: Vitality",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_HpRegen_LV1"
+      },
+      {
+        "key": 1002529,
+        "item_name": "Gear Blueprint: Frostward",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_IceResistance_LV1"
+      },
+      {
+        "key": 1002777,
+        "item_name": "Gear Blueprint: Haste",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_MoveSpeedRate_LV1"
+      },
+      {
+        "key": 1002746,
+        "item_name": "Gear Blueprint: Composure",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_MpRegen_LV1"
+      },
+      {
+        "key": 1000190,
+        "item_name": "Gear Blueprint: Vigor",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_StaminaRegen_LV1"
+      },
+      {
+        "key": 1002525,
+        "item_name": "Gear Blueprint: Surge",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Stat_AbyssGear_SwimSpeedRate_LV1"
+      },
+      {
+        "key": 1004895,
+        "item_name": "Blueprint: Frostcursed Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Recipe_king_LostPeople_PlateArmor_Armor"
+      },
+      {
+        "key": 1004894,
+        "item_name": "Blueprint: Scorchflame Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Paphneil_PlateArmor_Armor"
+      },
+      {
+        "key": 1004893,
+        "item_name": "Blueprint: Lightning Bolt Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Titan_PlateArmor_Armor"
+      },
+      {
+        "key": 1002494,
+        "item_name": "Gear Blueprint: Piercing Bloom",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AbsoluteDefense_LV1"
+      },
+      {
+        "key": 1002541,
+        "item_name": "Gear Blueprint: Abyssal Assimilation",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AbyssGrass_Immune"
+      },
+      {
+        "key": 1003758,
+        "item_name": "Gear Blueprint: Shred",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_FabricArmor_LV1"
+      },
+      {
+        "key": 1001436,
+        "item_name": "Gear Blueprint: Rend",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_LeatherArmor_LV1"
+      },
+      {
+        "key": 1000426,
+        "item_name": "Gear Blueprint: Shatter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddCriticalRateByMaterialKey_PlateArmor_LV1"
+      },
+      {
+        "key": 1002654,
+        "item_name": "Gear Blueprint: Solidarity",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddFrendly_LV1"
+      },
+      {
+        "key": 1003736,
+        "item_name": "Gear Blueprint: Ledgermain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AdditionalThief_LV1"
+      },
+      {
+        "key": 1003730,
+        "item_name": "Gear Blueprint: Energy Drain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddKillSkillLevel_LV1"
+      },
+      {
+        "key": 1002594,
+        "item_name": "Gear Blueprint: Fortune",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AddMoneyDropRate_LV1"
+      },
+      {
+        "key": 1002762,
+        "item_name": "Gear Blueprint: Warden of Darkness",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Antumbra_Spear"
+      },
+      {
+        "key": 1002890,
+        "item_name": "Gear Blueprint: Dark Crescent",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Antumbra_TwoHandRod"
+      },
+      {
+        "key": 1002531,
+        "item_name": "Gear Blueprint: Arrow Rain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_ArrowRain_LV1"
+      },
+      {
+        "key": 1002534,
+        "item_name": "Gear Blueprint: Ator's Orb",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_AtorDrone_LV1"
+      },
+      {
+        "key": 1003731,
+        "item_name": "Gear Blueprint: Life Transference",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_HPRecover_LV1"
+      },
+      {
+        "key": 1003732,
+        "item_name": "Gear Blueprint: Spirit Transference",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_MPRecover_LV1"
+      },
+      {
+        "key": 1003733,
+        "item_name": "Gear Blueprint: Stamina Transference",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Attack_SPRecover_LV1"
+      },
+      {
+        "key": 1003696,
+        "item_name": "Gear Blueprint: Flames of Judgment",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Bastier"
+      },
+      {
+        "key": 1002643,
+        "item_name": "Gear Blueprint: Infinite Arrows",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_BlockAmmoConsume_LV1"
+      },
+      {
+        "key": 1002579,
+        "item_name": "Gear Blueprint: Malicebane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Boss_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002648,
+        "item_name": "Gear Blueprint: Rising Torrent",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Catfish_BodySlam_LV1"
+      },
+      {
+        "key": 1003739,
+        "item_name": "Gear Blueprint: Blessing of the Beast",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Animal_LV1"
+      },
+      {
+        "key": 1002653,
+        "item_name": "Gear Blueprint: Blessing of the Forest",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Log_LV1"
+      },
+      {
+        "key": 1003737,
+        "item_name": "Gear Blueprint: Blessing of the Earth",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Ore_LV1"
+      },
+      {
+        "key": 1003738,
+        "item_name": "Gear Blueprint: Blessing of Nature",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CollectDrop_Plant_LV1"
+      },
+      {
+        "key": 1003734,
+        "item_name": "Gear Blueprint: Relentless",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Combo_LV1"
+      },
+      {
+        "key": 1003728,
+        "item_name": "Gear Blueprint: Beastbane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CommonAnimal_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002574,
+        "item_name": "Gear Blueprint: Primalbane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CommonGolem_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002570,
+        "item_name": "Gear Blueprint: Hexebane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CommonHexe_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002571,
+        "item_name": "Gear Blueprint: Bloodbane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CommonHumanoid_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1003740,
+        "item_name": "Gear Blueprint: Service",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_ContributionExp_LV1"
+      },
+      {
+        "key": 1003729,
+        "item_name": "Gear Blueprint: Abyssbane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Creature_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002856,
+        "item_name": "Gear Blueprint: Crescent Moon Slash",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_1_LV1"
+      },
+      {
+        "key": 1002859,
+        "item_name": "Gear Blueprint: Half Moon Slash",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_2_LV1"
+      },
+      {
+        "key": 1002877,
+        "item_name": "Gear Blueprint: Fullmoon Slash",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CresecentAura_3_LV1"
+      },
+      {
+        "key": 1002390,
+        "item_name": "Gear Blueprint: Crow's Pursuit",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CrowAttack_LV1"
+      },
+      {
+        "key": 1002489,
+        "item_name": "Gear Blueprint: Crow Storm",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_CrowStorm_LV1"
+      },
+      {
+        "key": 1002546,
+        "item_name": "Gear Blueprint: Momentum",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_DAM_UP_RotationBash"
+      },
+      {
+        "key": 1003719,
+        "item_name": "Gear Blueprint: Greysoul Howling",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_DarkChase_LV1"
+      },
+      {
+        "key": 1002596,
+        "item_name": "Gear Blueprint: Wound of Darkness",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_DarkenRobe_LV1"
+      },
+      {
+        "key": 1002483,
+        "item_name": "Gear Blueprint: Hound's Claws",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_DogClaw_LV1"
+      },
+      {
+        "key": 1002532,
+        "item_name": "Gear Blueprint: Kinetic Burst",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_EnergyBurst_LV1"
+      },
+      {
+        "key": 1002481,
+        "item_name": "Gear Blueprint: Karmic Pulse",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_EnlightenmentWave_LV1"
+      },
+      {
+        "key": 1003742,
+        "item_name": "Gear Blueprint: Equestrian",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Equip_AddHorseExp_LV1"
+      },
+      {
+        "key": 1003743,
+        "item_name": "Gear Blueprint: Companionship",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Equip_AddPetFriendly_LV1"
+      },
+      {
+        "key": 1003228,
+        "item_name": "Gear Blueprint: Disarm",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_EquipDropRate_LV1"
+      },
+      {
+        "key": 1000734,
+        "item_name": "Gear Blueprint: Volcanic Eruption",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FireBreath_LV1"
+      },
+      {
+        "key": 1002478,
+        "item_name": "Gear Blueprint: Slashing Reeds",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FlashCombo_LV1"
+      },
+      {
+        "key": 1002644,
+        "item_name": "Gear Blueprint: Gourmet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FoodSkillLevelUp_LV1"
+      },
+      {
+        "key": 1002639,
+        "item_name": "Gear Blueprint: Judgment of the Soul",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Forgotten_General"
+      },
+      {
+        "key": 1000733,
+        "item_name": "Gear Blueprint: Frost Hail",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FrostBreath_LV1"
+      },
+      {
+        "key": 1002804,
+        "item_name": "Gear Blueprint: Shattering Frost",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FrostDeath_LV1"
+      },
+      {
+        "key": 1002803,
+        "item_name": "Gear Blueprint: Frost Spike",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_FrostSpike_LV1"
+      },
+      {
+        "key": 1002544,
+        "item_name": "Gear Blueprint: Heart of the Serpent",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Hyena_PoisonImmune"
+      },
+      {
+        "key": 1002545,
+        "item_name": "Gear Blueprint: Heart of Stone",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Immune_Bismuth"
+      },
+      {
+        "key": 1003726,
+        "item_name": "Gear Blueprint: Howling of Chaos",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_ImpBoss"
+      },
+      {
+        "key": 1002649,
+        "item_name": "Gear Blueprint: Pillar of Wind",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Karanda"
+      },
+      {
+        "key": 1001423,
+        "item_name": "Gear Blueprint: Groundsurge",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_LandMash_LV1"
+      },
+      {
+        "key": 1003725,
+        "item_name": "Gear Blueprint: Parting Gift",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_LanFord"
+      },
+      {
+        "key": 1003720,
+        "item_name": "Gear Blueprint: Shadow Claw",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Leebur"
+      },
+      {
+        "key": 1002558,
+        "item_name": "Gear Blueprint: Orbs of Lightning",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_LightningBreath_LV1"
+      },
+      {
+        "key": 1002480,
+        "item_name": "Gear Blueprint: Storm Fang",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_LightningStab_LV1"
+      },
+      {
+        "key": 1002568,
+        "item_name": "Gear Blueprint: Steelbane",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Machine_AdditionalDamage_LV1"
+      },
+      {
+        "key": 1002878,
+        "item_name": "Gear Blueprint: Order from Above",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Merrick"
+      },
+      {
+        "key": 1002651,
+        "item_name": "Gear Blueprint: The Showstopper",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Muscan"
+      },
+      {
+        "key": 1002642,
+        "item_name": "Gear Blueprint: Colossal Might",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Ogre"
+      },
+      {
+        "key": 1002490,
+        "item_name": "Gear Blueprint: Abyssal Rays",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_PhantomStab_LV1"
+      },
+      {
+        "key": 1003722,
+        "item_name": "Gear Blueprint: Ancient Wrath",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Praevus"
+      },
+      {
+        "key": 1002650,
+        "item_name": "Gear Blueprint: Ancient Reckoning",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Primus"
+      },
+      {
+        "key": 1003723,
+        "item_name": "Gear Blueprint: Ancient Retribution",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Priscus"
+      },
+      {
+        "key": 1003721,
+        "item_name": "Gear Blueprint: Queen's Fangs",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_QueenSpider"
+      },
+      {
+        "key": 1002645,
+        "item_name": "Gear Blueprint: Efficiency",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_ReduceCraftMaterial_LV1"
+      },
+      {
+        "key": 1003724,
+        "item_name": "Gear Blueprint: Putrid Touch",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Skevald"
+      },
+      {
+        "key": 1003741,
+        "item_name": "Gear Blueprint: Aptitude",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_SkillPointExp_LV1"
+      },
+      {
+        "key": 1002769,
+        "item_name": "Gear Blueprint: Tempest of Destruction",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_SmashStorm_LV1"
+      },
+      {
+        "key": 1002388,
+        "item_name": "Gear Blueprint: Spirit's Judgment",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_SoulStrike_LV1"
+      },
+      {
+        "key": 1002479,
+        "item_name": "Gear Blueprint: Wind Slash",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_SwordAura_LV1"
+      },
+      {
+        "key": 1002891,
+        "item_name": "Gear Blueprint: Earthrending Strike",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_TarandusWarrior_WarHammer"
+      },
+      {
+        "key": 1003727,
+        "item_name": "Gear Blueprint: Lightning God's Affliction",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Skill_AbyssGear_Titan"
+      },
+      {
+        "key": 1003266,
+        "item_name": "Alchemy Formula: Freya's Lesser Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DDD_LV1"
+      },
+      {
+        "key": 1003267,
+        "item_name": "Alchemy Formula: Freya's Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DDD_LV2"
+      },
+      {
+        "key": 1003268,
+        "item_name": "Alchemy Formula: Freya's Greater Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DDD_LV3"
+      },
+      {
+        "key": 1003269,
+        "item_name": "Alchemy Formula: Apollonia's Lesser Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DPV_LV1"
+      },
+      {
+        "key": 1003270,
+        "item_name": "Alchemy Formula: Apollonia's Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DPV_LV2"
+      },
+      {
+        "key": 1003271,
+        "item_name": "Alchemy Formula: Apollonia's Greater Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_DPV_LV3"
+      },
+      {
+        "key": 1003272,
+        "item_name": "Alchemy Formula: Meliara's Lesser Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_HP_LV1"
+      },
+      {
+        "key": 1003273,
+        "item_name": "Alchemy Formula: Meliara's Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_HP_LV2"
+      },
+      {
+        "key": 1003274,
+        "item_name": "Alchemy Formula: Meliara's Greater Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_HP_LV3"
+      },
+      {
+        "key": 1003275,
+        "item_name": "Alchemy Formula: Haiden's Lesser Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_MP_LV1"
+      },
+      {
+        "key": 1003276,
+        "item_name": "Alchemy Formula: Haiden's Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_MP_LV2"
+      },
+      {
+        "key": 1003277,
+        "item_name": "Alchemy Formula: Haiden's Greater Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_MP_LV3"
+      },
+      {
+        "key": 1003278,
+        "item_name": "Alchemy Formula: Astrid's Lesser Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_SP_LV1"
+      },
+      {
+        "key": 1003279,
+        "item_name": "Alchemy Formula: Astrid's Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_SP_LV2"
+      },
+      {
+        "key": 1003280,
+        "item_name": "Alchemy Formula: Astrid's Greater Elixir",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Potion_SP_LV3"
+      },
+      {
+        "key": 1004695,
+        "item_name": "Blueprint: Pororin Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_catwheel_01"
+      },
+      {
+        "key": 1004696,
+        "item_name": "Blueprint: Marni Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_catwheel_02"
+      },
+      {
+        "key": 1004697,
+        "item_name": "Blueprint: Clanging Little Knight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0001"
+      },
+      {
+        "key": 1004698,
+        "item_name": "Blueprint: Clanging Red Jester",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0002"
+      },
+      {
+        "key": 1004699,
+        "item_name": "Blueprint: Clanging King",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0003"
+      },
+      {
+        "key": 1004700,
+        "item_name": "Blueprint: VZ-O and Z-One",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0004"
+      },
+      {
+        "key": 1004682,
+        "item_name": "Blueprint: Lion Head Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_01"
+      },
+      {
+        "key": 1004684,
+        "item_name": "Blueprint: Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_02"
+      },
+      {
+        "key": 1004685,
+        "item_name": "Blueprint: Redsand Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_02_desert"
+      },
+      {
+        "key": 1004686,
+        "item_name": "Blueprint: Silent Gazer Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_06"
+      },
+      {
+        "key": 1004683,
+        "item_name": "Blueprint: Leaf Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_09"
+      },
+      {
+        "key": 1004681,
+        "item_name": "Blueprint: Brookfield Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_drinkingfountain_01"
+      },
+      {
+        "key": 1004687,
+        "item_name": "Blueprint: Sculpted Fish Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_fountain_statue_02"
+      },
+      {
+        "key": 1004642,
+        "item_name": "Blueprint: Anvil",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_anvil_01"
+      },
+      {
+        "key": 1004643,
+        "item_name": "Blueprint: Field Pot",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_04"
+      },
+      {
+        "key": 1004644,
+        "item_name": "Blueprint: Bonfire",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_05"
+      },
+      {
+        "key": 1004701,
+        "item_name": "Blueprint: Round Twilight Floral Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0001"
+      },
+      {
+        "key": 1004702,
+        "item_name": "Blueprint: Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0002"
+      },
+      {
+        "key": 1004703,
+        "item_name": "Blueprint: Frost-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0003"
+      },
+      {
+        "key": 1004704,
+        "item_name": "Blueprint: Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0004"
+      },
+      {
+        "key": 1004705,
+        "item_name": "Blueprint: Rhombic Vermillion Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0005"
+      },
+      {
+        "key": 1004706,
+        "item_name": "Blueprint: Large Twilight Floral Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006"
+      },
+      {
+        "key": 1004707,
+        "item_name": "Blueprint: Large Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006_index01"
+      },
+      {
+        "key": 1004708,
+        "item_name": "Blueprint: Large Stone Knotted Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0007"
+      },
+      {
+        "key": 1004709,
+        "item_name": "Blueprint: Sunset Plaid Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008"
+      },
+      {
+        "key": 1004710,
+        "item_name": "Blueprint: Double Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008_index01"
+      },
+      {
+        "key": 1004711,
+        "item_name": "Blueprint: Large Rosy Dragonscale Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0009"
+      },
+      {
+        "key": 1004858,
+        "item_name": "Blueprint: Wide Dawndrop Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0013"
+      },
+      {
+        "key": 1004859,
+        "item_name": "Blueprint: Round Wide Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0014"
+      },
+      {
+        "key": 1004860,
+        "item_name": "Blueprint: Wide Multicolor Knotted Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0015"
+      },
+      {
+        "key": 1004861,
+        "item_name": "Blueprint: Round Wide Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0016"
+      },
+      {
+        "key": 1004828,
+        "item_name": "Blueprint: Faust's Music Box",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_jukebox_0001"
+      },
+      {
+        "key": 1004666,
+        "item_name": "Blueprint: Cold Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001"
+      },
+      {
+        "key": 1004667,
+        "item_name": "Blueprint: Warm Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index01"
+      },
+      {
+        "key": 1004668,
+        "item_name": "Blueprint: Soft Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index02"
+      },
+      {
+        "key": 1004653,
+        "item_name": "Blueprint: Rope Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0001"
+      },
+      {
+        "key": 1004654,
+        "item_name": "Blueprint: Pheasant Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0002"
+      },
+      {
+        "key": 1004655,
+        "item_name": "Blueprint: Four-Way Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0003"
+      },
+      {
+        "key": 1004656,
+        "item_name": "Blueprint: Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0004"
+      },
+      {
+        "key": 1004657,
+        "item_name": "Blueprint: Crow Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0005"
+      },
+      {
+        "key": 1004658,
+        "item_name": "Blueprint: Stone Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0006"
+      },
+      {
+        "key": 1004659,
+        "item_name": "Blueprint: Red-Crowned Crane Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0007"
+      },
+      {
+        "key": 1004660,
+        "item_name": "Blueprint: Stone Nest Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0008"
+      },
+      {
+        "key": 1004661,
+        "item_name": "Blueprint: Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0009"
+      },
+      {
+        "key": 1004662,
+        "item_name": "Blueprint: Twin-Branched Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0010"
+      },
+      {
+        "key": 1004641,
+        "item_name": "Blueprint: Grindstone",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_blacksmithstone"
+      },
+      {
+        "key": 1004673,
+        "item_name": "Blueprint: Wooden Pororin Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_01"
+      },
+      {
+        "key": 1004674,
+        "item_name": "Blueprint: Wooden Florindale Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_02"
+      },
+      {
+        "key": 1004675,
+        "item_name": "Blueprint: Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0001"
+      },
+      {
+        "key": 1004676,
+        "item_name": "Blueprint: Red Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0001_index01"
+      },
+      {
+        "key": 1004677,
+        "item_name": "Blueprint: Brick Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0002"
+      },
+      {
+        "key": 1004678,
+        "item_name": "Blueprint: Thatched Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0003"
+      },
+      {
+        "key": 1004679,
+        "item_name": "Blueprint: Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0004"
+      },
+      {
+        "key": 1004680,
+        "item_name": "Blueprint: Redsand Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0004_index01"
+      },
+      {
+        "key": 1004669,
+        "item_name": "Blueprint: Wooden Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_01"
+      },
+      {
+        "key": 1004670,
+        "item_name": "Blueprint: Wooden Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_02"
+      },
+      {
+        "key": 1004671,
+        "item_name": "Blueprint: Wooden Purple Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_03"
+      },
+      {
+        "key": 1004672,
+        "item_name": "Blueprint: Redtree Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_04"
+      },
+      {
+        "key": 1004650,
+        "item_name": "Blueprint: Quad-Base Crown of Thorns Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_brazier_02_on"
+      },
+      {
+        "key": 1004645,
+        "item_name": "Blueprint: Tripod Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_01_on"
+      },
+      {
+        "key": 1004646,
+        "item_name": "Blueprint: Tall Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_03_on"
+      },
+      {
+        "key": 1004647,
+        "item_name": "Blueprint: Short Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_04_on"
+      },
+      {
+        "key": 1004648,
+        "item_name": "Blueprint: Wind-Guarded Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_05_on"
+      },
+      {
+        "key": 1004649,
+        "item_name": "Blueprint: Hexagonal Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_06_on"
+      },
+      {
+        "key": 1004651,
+        "item_name": "Blueprint: Tripod Guide Torch",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_standtorch_01_on"
+      },
+      {
+        "key": 1004652,
+        "item_name": "Blueprint: Tripod Guardian Torch",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_standtorch_02_on"
+      },
+      {
+        "key": 1004663,
+        "item_name": "Blueprint: Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03"
+      },
+      {
+        "key": 1004664,
+        "item_name": "Blueprint: Red Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03_index01"
+      },
+      {
+        "key": 1004665,
+        "item_name": "Blueprint: Bright Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03_index02"
+      },
+      {
+        "key": 1000622,
+        "item_name": "Recipe: Meat Stew",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Beef_Bone_Soup"
+      },
+      {
+        "key": 80413,
+        "item_name": "Recipe: Fruit Juice",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Berry_Juice"
       },
       {
         "key": 80001,
@@ -3942,10 +4674,10 @@
         "string_key": "Recipe_Braised_Meat_Vegetable"
       },
       {
-        "key": 1000523,
-        "item_name": "Recipe: Chewy Rice Cakes",
+        "key": 1000158,
+        "item_name": "Recipe: Pickled Vegetables",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Fruit_Grain_Pancake"
+        "string_key": "Recipe_Braised_Vegetable"
       },
       {
         "key": 1003768,
@@ -3954,34 +4686,34 @@
         "string_key": "Recipe_Chocolate"
       },
       {
-        "key": 1000076,
-        "item_name": "Recipe: Clear Soup",
+        "key": 1001525,
+        "item_name": "Blueprint: Faded Abyss Artifact",
         "item_type": "Disc0",
-        "string_key": "Recipe_Meat_Porridge"
+        "string_key": "Recipe_Deactived_Abyss_Artifact"
       },
       {
-        "key": 80505,
-        "item_name": "Recipe: Coral Mushroom Tea",
+        "key": 80412,
+        "item_name": "Recipe: Antler Tea",
         "item_type": "Disc0",
-        "string_key": "Recipe_Ssari_Mushroom_Tea"
+        "string_key": "Recipe_DeerAntler_Fruit_Tea"
       },
       {
-        "key": 1000977,
-        "item_name": "Recipe: Delesyian Wine",
+        "key": 1000954,
+        "item_name": "Recipe: Longhorn Soup",
         "item_type": "Disc0",
-        "string_key": "Recipe_High_Wine"
+        "string_key": "Recipe_DeerAntler_Soup"
       },
       {
-        "key": 1000860,
-        "item_name": "Recipe: Extravagant Meal",
+        "key": 1000704,
+        "item_name": "Recipe: Pan-Fried Marinated Fish",
         "item_type": "Disc0",
-        "string_key": "Recipe_Surasang_01"
+        "string_key": "Recipe_Fish_Bulgogi"
       },
       {
-        "key": 1000956,
-        "item_name": "Recipe: Fine Meal",
+        "key": 1000504,
+        "item_name": "Recipe: Steamed Fish",
         "item_type": "Disc0",
-        "string_key": "Recipe_Surasang_03"
+        "string_key": "Recipe_Fish_Fruit_Porridge"
       },
       {
         "key": 1000150,
@@ -3996,22 +4728,22 @@
         "string_key": "Recipe_Fish_Sanjeok"
       },
       {
+        "key": 1000701,
+        "item_name": "Recipe: Mixed Stew",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Fish_Soup"
+      },
+      {
         "key": 1000705,
         "item_name": "Recipe: Fish Stew",
         "item_type": "Disc0",
         "string_key": "Recipe_Fish_Stew"
       },
       {
-        "key": 1000506,
-        "item_name": "Recipe: Fishball Soup",
+        "key": 1000502,
+        "item_name": "Recipe: Vegetable and Seafood Porridge",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Fish_Grain_Pancake"
-      },
-      {
-        "key": 80413,
-        "item_name": "Recipe: Fruit Juice",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Berry_Juice"
+        "string_key": "Recipe_Fish_Vegetable_Porridge"
       },
       {
         "key": 1000235,
@@ -4020,22 +4752,28 @@
         "string_key": "Recipe_Fruit_Porridge"
       },
       {
+        "key": 1000976,
+        "item_name": "Recipe: Wine",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Fruit_Wine"
+      },
+      {
         "key": 80003,
         "item_name": "Recipe: Fruit Tea",
         "item_type": "Disc0",
         "string_key": "Recipe_FruitTea"
       },
       {
-        "key": 1000510,
-        "item_name": "Recipe: Grain Soup",
+        "key": 1000719,
+        "item_name": "Recipe: Assorted Braised Fish",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Vegetable_Grain_Pancake"
+        "string_key": "Recipe_Full_Course_of_Braised_Fish"
       },
       {
-        "key": 1000819,
-        "item_name": "Recipe: Grand Meal",
+        "key": 1003361,
+        "item_name": "Alchemy Formula: Gold Bar",
         "item_type": "Disc0",
-        "string_key": "Recipe_Surasang_00"
+        "string_key": "Recipe_GoldBar"
       },
       {
         "key": 1000038,
@@ -4044,28 +4782,22 @@
         "string_key": "Recipe_Grilled_Meat_Fish"
       },
       {
-        "key": 1000636,
-        "item_name": "Recipe: Grilled Meat Patties",
+        "key": 1001130,
+        "item_name": "Recipe: Steamed Seafood",
         "item_type": "Disc0",
-        "string_key": "Recipe_Tteokgalbi"
+        "string_key": "Recipe_Haemuljjim"
       },
       {
-        "key": 1000557,
-        "item_name": "Recipe: Grilled Meat Steak",
+        "key": 1001885,
+        "item_name": "Recipe: Mild Herbal Tea",
         "item_type": "Disc0",
-        "string_key": "Recipe_Meat_Fish_Grain_Sanjeok"
+        "string_key": "Recipe_Herbal_Tea"
       },
       {
-        "key": 1000507,
-        "item_name": "Recipe: Harvest Roll",
+        "key": 1000977,
+        "item_name": "Recipe: Delesyian Wine",
         "item_type": "Disc0",
-        "string_key": "Recipe_Vegetable_Fruit_Porridge"
-      },
-      {
-        "key": 1000617,
-        "item_name": "Recipe: Harvest Soup",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Sinseollo"
+        "string_key": "Recipe_High_Wine"
       },
       {
         "key": 80529,
@@ -4074,28 +4806,34 @@
         "string_key": "Recipe_Honey_Tea"
       },
       {
-        "key": 1000881,
-        "item_name": "Recipe: Lavish Meal",
+        "key": 1000775,
+        "item_name": "Recipe: Pan-Fried Vegetables",
         "item_type": "Disc0",
-        "string_key": "Recipe_Surasang_02"
+        "string_key": "Recipe_Japchae"
       },
       {
-        "key": 1000954,
-        "item_name": "Recipe: Longhorn Soup",
+        "key": 1000673,
+        "item_name": "Recipe: Mixed Harvest Bowl",
         "item_type": "Disc0",
-        "string_key": "Recipe_DeerAntler_Soup"
+        "string_key": "Recipe_Jeonju_Bibimbap"
       },
       {
-        "key": 1000483,
-        "item_name": "Recipe: Marinated Meat",
+        "key": 1000687,
+        "item_name": "Recipe: Battered Harvest Roll",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Meat_Fruit_Pancake"
+        "string_key": "Recipe_Kimbap"
       },
       {
-        "key": 1001060,
-        "item_name": "Recipe: Meal",
+        "key": 1000527,
+        "item_name": "Recipe: Assorted Meat and Fish Skewers",
         "item_type": "Disc0",
-        "string_key": "Recipe_Surasang_05"
+        "string_key": "Recipe_Meat_Fish_Fruit_Sanjeok"
+      },
+      {
+        "key": 1000557,
+        "item_name": "Recipe: Grilled Meat Steak",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Meat_Fish_Grain_Sanjeok"
       },
       {
         "key": 1000445,
@@ -4110,70 +4848,10 @@
         "string_key": "Recipe_Meat_Fish_Sanjeok"
       },
       {
-        "key": 1000453,
-        "item_name": "Recipe: Meat and Vegetable Porridge",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Meat_Vegetable_Porridge"
-      },
-      {
-        "key": 1000071,
-        "item_name": "Recipe: Meat Skewers",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Meat_Sanjeok"
-      },
-      {
-        "key": 1000492,
-        "item_name": "Recipe: Meat Soup",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Meat_Grain_Pancake"
-      },
-      {
-        "key": 1000622,
-        "item_name": "Recipe: Meat Stew",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Beef_Bone_Soup"
-      },
-      {
         "key": 1000585,
         "item_name": "Recipe: Meatball Soup",
         "item_type": "Disc0",
         "string_key": "Recipe_Meat_Fish_Vegetable_Egg"
-      },
-      {
-        "key": 1001885,
-        "item_name": "Recipe: Mild Herbal Tea",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Herbal_Tea"
-      },
-      {
-        "key": 1000673,
-        "item_name": "Recipe: Mixed Harvest Bowl",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Jeonju_Bibimbap"
-      },
-      {
-        "key": 1000616,
-        "item_name": "Recipe: Mixed Skewers",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Nureumjeok"
-      },
-      {
-        "key": 1000701,
-        "item_name": "Recipe: Mixed Stew",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Fish_Soup"
-      },
-      {
-        "key": 80510,
-        "item_name": "Recipe: Oakwood Mushroom Tea",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Pyogo_Mushroom_Tea"
-      },
-      {
-        "key": 1000704,
-        "item_name": "Recipe: Pan-Fried Marinated Fish",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Fish_Bulgogi"
       },
       {
         "key": 1000480,
@@ -4182,16 +4860,58 @@
         "string_key": "Recipe_Meat_Fruit_Porridge"
       },
       {
-        "key": 1000620,
-        "item_name": "Recipe: Pan-Fried Rice Cakes",
+        "key": 1000076,
+        "item_name": "Recipe: Clear Soup",
         "item_type": "Disc0",
-        "string_key": "Recipe_Gungjung_Tteokbokki"
+        "string_key": "Recipe_Meat_Porridge"
       },
       {
-        "key": 1000775,
-        "item_name": "Recipe: Pan-Fried Vegetables",
+        "key": 1000071,
+        "item_name": "Recipe: Meat Skewers",
         "item_type": "Disc0",
-        "string_key": "Recipe_Japchae"
+        "string_key": "Recipe_Meat_Sanjeok"
+      },
+      {
+        "key": 1000453,
+        "item_name": "Recipe: Meat and Vegetable Porridge",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Meat_Vegetable_Porridge"
+      },
+      {
+        "key": 1000616,
+        "item_name": "Recipe: Mixed Skewers",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Nureumjeok"
+      },
+      {
+        "key": 1000505,
+        "item_name": "Recipe: Seafood Stew",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Fish_Fruit_Pancake"
+      },
+      {
+        "key": 1000506,
+        "item_name": "Recipe: Fishball Soup",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Fish_Grain_Pancake"
+      },
+      {
+        "key": 1000154,
+        "item_name": "Recipe: Battered Fish",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Fish_Pancake"
+      },
+      {
+        "key": 1000503,
+        "item_name": "Recipe: Battered Seafood",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Fish_Vegetable_Pancake"
+      },
+      {
+        "key": 1000523,
+        "item_name": "Recipe: Chewy Rice Cakes",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Fruit_Grain_Pancake"
       },
       {
         "key": 1000244,
@@ -4200,16 +4920,82 @@
         "string_key": "Recipe_Pan_fried_Fruit_Pancake"
       },
       {
-        "key": 1000158,
-        "item_name": "Recipe: Pickled Vegetables",
+        "key": 1000257,
+        "item_name": "Recipe: Battered Grains",
         "item_type": "Disc0",
-        "string_key": "Recipe_Braised_Vegetable"
+        "string_key": "Recipe_Pan_fried_Grain_Pancake"
       },
       {
-        "key": 80509,
-        "item_name": "Recipe: Pine Mushroom Tea",
+        "key": 1000450,
+        "item_name": "Recipe: Battered Meat and Fish",
         "item_type": "Disc0",
-        "string_key": "Recipe_Songyi_Mushroom_Tea"
+        "string_key": "Recipe_Pan_fried_Meat_Fish_Pancake"
+      },
+      {
+        "key": 1000483,
+        "item_name": "Recipe: Marinated Meat",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Meat_Fruit_Pancake"
+      },
+      {
+        "key": 1000492,
+        "item_name": "Recipe: Meat Soup",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Meat_Grain_Pancake"
+      },
+      {
+        "key": 1000087,
+        "item_name": "Recipe: Battered Meat",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Meat_Pancake"
+      },
+      {
+        "key": 1000455,
+        "item_name": "Recipe: Steamed Eggs",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Meat_Vegetable_Pancake"
+      },
+      {
+        "key": 1000508,
+        "item_name": "Recipe: Vegetable Rice Cake",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Vegetable_Fruit_Pancake"
+      },
+      {
+        "key": 1000510,
+        "item_name": "Recipe: Grain Soup",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Vegetable_Grain_Pancake"
+      },
+      {
+        "key": 1000199,
+        "item_name": "Recipe: Battered Vegetables",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pan_fried_Vegetable_Pancake"
+      },
+      {
+        "key": 1003360,
+        "item_name": "Alchemy Formula: Platinum",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Platinum"
+      },
+      {
+        "key": 80510,
+        "item_name": "Recipe: Oakwood Mushroom Tea",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Pyogo_Mushroom_Tea"
+      },
+      {
+        "key": 1002527,
+        "item_name": "Alchemy Formula: Refined Palmar Pill",
+        "item_type": "Disc0",
+        "string_key": "Recipe_RevivalItem"
+      },
+      {
+        "key": 1002551,
+        "item_name": "Alchemy Formula: Palmar Pill",
+        "item_type": "Disc0",
+        "string_key": "Recipe_RevivalItemPartialRecovery"
       },
       {
         "key": 80812,
@@ -4224,16 +5010,58 @@
         "string_key": "Recipe_Roast_Fish"
       },
       {
+        "key": 80406,
+        "item_name": "Recipe: Bird Soup",
+        "item_type": "Disc0",
+        "string_key": "Recipe_SamGyeTang"
+      },
+      {
         "key": 1001077,
         "item_name": "Recipe: Seafood Soup",
         "item_type": "Disc0",
         "string_key": "Recipe_Seafood_Soup"
       },
       {
-        "key": 1000505,
-        "item_name": "Recipe: Seafood Stew",
+        "key": 1000617,
+        "item_name": "Recipe: Harvest Soup",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Fish_Fruit_Pancake"
+        "string_key": "Recipe_Sinseollo"
+      },
+      {
+        "key": 80509,
+        "item_name": "Recipe: Pine Mushroom Tea",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Songyi_Mushroom_Tea"
+      },
+      {
+        "key": 80505,
+        "item_name": "Recipe: Coral Mushroom Tea",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Ssari_Mushroom_Tea"
+      },
+      {
+        "key": 1000819,
+        "item_name": "Recipe: Grand Meal",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Surasang_00"
+      },
+      {
+        "key": 1000860,
+        "item_name": "Recipe: Extravagant Meal",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Surasang_01"
+      },
+      {
+        "key": 1000881,
+        "item_name": "Recipe: Lavish Meal",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Surasang_02"
+      },
+      {
+        "key": 1000956,
+        "item_name": "Recipe: Fine Meal",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Surasang_03"
       },
       {
         "key": 1000968,
@@ -4242,28 +5070,22 @@
         "string_key": "Recipe_Surasang_04"
       },
       {
-        "key": 1000455,
-        "item_name": "Recipe: Steamed Eggs",
+        "key": 1001060,
+        "item_name": "Recipe: Meal",
         "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Meat_Vegetable_Pancake"
+        "string_key": "Recipe_Surasang_05"
       },
       {
-        "key": 1000504,
-        "item_name": "Recipe: Steamed Fish",
+        "key": 1000636,
+        "item_name": "Recipe: Grilled Meat Patties",
         "item_type": "Disc0",
-        "string_key": "Recipe_Fish_Fruit_Porridge"
+        "string_key": "Recipe_Tteokgalbi"
       },
       {
-        "key": 1001130,
-        "item_name": "Recipe: Steamed Seafood",
+        "key": 1000507,
+        "item_name": "Recipe: Harvest Roll",
         "item_type": "Disc0",
-        "string_key": "Recipe_Haemuljjim"
-      },
-      {
-        "key": 1000502,
-        "item_name": "Recipe: Vegetable and Seafood Porridge",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Fish_Vegetable_Porridge"
+        "string_key": "Recipe_Vegetable_Fruit_Porridge"
       },
       {
         "key": 1001854,
@@ -4276,96 +5098,6 @@
         "item_name": "Recipe: Vegetable Porridge",
         "item_type": "Disc0",
         "string_key": "Recipe_Vegetable_Porridge"
-      },
-      {
-        "key": 1000508,
-        "item_name": "Recipe: Vegetable Rice Cake",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Pan_fried_Vegetable_Fruit_Pancake"
-      },
-      {
-        "key": 1000976,
-        "item_name": "Recipe: Wine",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Fruit_Wine"
-      },
-      {
-        "key": 1000841,
-        "item_name": "Scarecrow Cloak Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Scarecrow_Camouflage_Cloak"
-      },
-      {
-        "key": 1000714,
-        "item_name": "Shadowleaf Disguise Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Ent"
-      },
-      {
-        "key": 1000414,
-        "item_name": "Shields of the World, Vol. I",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_OneHandShield_I"
-      },
-      {
-        "key": 1000415,
-        "item_name": "Shields of the World, Vol. II",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_OneHandShield_II"
-      },
-      {
-        "key": 1000417,
-        "item_name": "Shields of the World, Vol. III",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_OneHandShield_III"
-      },
-      {
-        "key": 1000418,
-        "item_name": "Shields of the World, Vol. IV",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_OneHandShield_IV"
-      },
-      {
-        "key": 802204,
-        "item_name": "St. Halssius Visitor Pass",
-        "item_type": "Disc0",
-        "string_key": "MonasteryVisitorPass"
-      },
-      {
-        "key": 1000401,
-        "item_name": "Two-Handed Weapons of the World, Vol. I",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_TwoHandWeapon_I"
-      },
-      {
-        "key": 1000402,
-        "item_name": "Two-Handed Weapons of the World, Vol. II",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_TwoHandWeapon_II"
-      },
-      {
-        "key": 1000403,
-        "item_name": "Two-Handed Weapons of the World, Vol. III",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_TwoHandWeapon_III"
-      },
-      {
-        "key": 1000404,
-        "item_name": "Two-Handed Weapons of the World, Vol. IV",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_TwoHandWeapon_IV"
-      },
-      {
-        "key": 1000755,
-        "item_name": "Varnian Equipment Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Varnia"
-      },
-      {
-        "key": 1000641,
-        "item_name": "Wells Military Tack Blueprint",
-        "item_type": "Disc0",
-        "string_key": "Recipe_Book_Wells_HorseArmor"
       }
     ]
   },
@@ -4382,16 +5114,34 @@
         "string_key": "Permit_Her_Costume"
       },
       {
-        "key": 101009,
-        "item_name": "Ator's Will Helm",
+        "key": 101046,
+        "item_name": "The Ashen's Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Makutan_PlateArmor_Helm"
+        "string_key": "Tarandus_PlateArmor_Helm"
       },
       {
-        "key": 114300,
-        "item_name": "Ator's Will Cloth Armor",
+        "key": 111039,
+        "item_name": "The Ashen's Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Wintharden_Fabric_Armor"
+        "string_key": "Tarandus_PlateArmor_Armor"
+      },
+      {
+        "key": 121025,
+        "item_name": "The Ashen's Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "Tarandus_PlateArmor_Gloves"
+      },
+      {
+        "key": 133164,
+        "item_name": "The Ashen's Leather Boots",
+        "item_type": "Disc0",
+        "string_key": "Tarandus_Leather_Boots"
+      },
+      {
+        "key": 1004632,
+        "item_name": "The Ashen's Leather Cloak",
+        "item_type": "Disc0",
+        "string_key": "Tarandus_PlateArmor_Cloak"
       },
       {
         "key": 124071,
@@ -4424,18 +5174,6 @@
         "string_key": "Valteon_PlateArmor_Gloves"
       },
       {
-        "key": 1002268,
-        "item_name": "Bandit Cloth Armor",
-        "item_type": "Disc0",
-        "string_key": "Laviren_Fabric_Armor_1"
-      },
-      {
-        "key": 1003675,
-        "item_name": "Bandit Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Laviren_Fabric_Cloak_I"
-      },
-      {
         "key": 101090,
         "item_name": "Bedure Plate Helm",
         "item_type": "Disc0",
@@ -4460,16 +5198,16 @@
         "string_key": "Optionary_Beekeeping_Leather_Boots"
       },
       {
-        "key": 101053,
-        "item_name": "Black Bears' Leather Helm",
+        "key": 1002092,
+        "item_name": "Besnet Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Beoneck_Leather_Helm"
+        "string_key": "Bessenette_PlateArmor_Helm"
       },
       {
-        "key": 1000846,
-        "item_name": "Black Bears' Cloth Cloak",
+        "key": 2114049,
+        "item_name": "Besnet Cloth Armor",
         "item_type": "Disc0",
-        "string_key": "Tibbletanus_Fabric_Cloak"
+        "string_key": "Bessenette_Fabric_Armor"
       },
       {
         "key": 14415,
@@ -4500,30 +5238,6 @@
         "item_name": "Blackwing Leather Cloak",
         "item_type": "Disc0",
         "string_key": "Douglas_Leather_Cloak"
-      },
-      {
-        "key": 2133151,
-        "item_name": "Blinding Arrow's Mask",
-        "item_type": "Disc0",
-        "string_key": "Natural_Enemy_Mask"
-      },
-      {
-        "key": 1001061,
-        "item_name": "Blinding Arrow's Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Light_Arrowhead_Fabric_Cloak_I"
-      },
-      {
-        "key": 1003203,
-        "item_name": "Blue Scout Armor",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_Fabric_Armor"
-      },
-      {
-        "key": 1003204,
-        "item_name": "Blue Scout Cloak",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_Fabric_Cloak"
       },
       {
         "key": 12414,
@@ -4670,24 +5384,6 @@
         "string_key": "Demeniss_PlateArmor_Cloak"
       },
       {
-        "key": 1002768,
-        "item_name": "Condemner's Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Braxen_PlateArmor_Helm"
-      },
-      {
-        "key": 2062522806,
-        "item_name": "Condemner's Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Kurinan_PlateArmor_Armor_I"
-      },
-      {
-        "key": 1003674,
-        "item_name": "Condemner's Plate Cloak",
-        "item_type": "Disc0",
-        "string_key": "Kurinan_PlateArmor_Cloak_I"
-      },
-      {
         "key": 14405,
         "item_name": "Crimson Chaser Plate Helm",
         "item_type": "Disc0",
@@ -4736,30 +5432,6 @@
         "string_key": "Redknight_PlateArmor_Cloak"
       },
       {
-        "key": 1000057,
-        "item_name": "Dark Marksman's Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Samuel_PlateArmor_Armor"
-      },
-      {
-        "key": 1000058,
-        "item_name": "Dark Marksman's Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "Samuel_PlateArmor_Gloves"
-      },
-      {
-        "key": 1000059,
-        "item_name": "Dark Marksman's Plate Boots",
-        "item_type": "Disc0",
-        "string_key": "Samuel_Plate_Boots"
-      },
-      {
-        "key": 1000310,
-        "item_name": "Dark Marksman's Plate Cloak",
-        "item_type": "Disc0",
-        "string_key": "Samuel_PlateArmor_Cloak"
-      },
-      {
         "key": 104132,
         "item_name": "Dark Ringleader's Cloth Helm",
         "item_type": "Disc0",
@@ -4802,40 +5474,16 @@
         "string_key": "Optionary_Demeniss_Soldier_Cloak"
       },
       {
-        "key": 1000007,
-        "item_name": "Desert Marauder's Plate Helm",
+        "key": 1000839,
+        "item_name": "Demenissian Grand General Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Optionary_Desert_Plunderer_Helmet"
+        "string_key": "Bastion_PlateArmor_Armor"
       },
       {
-        "key": 2133055,
-        "item_name": "Desert Marauder's Plate Armor",
+        "key": 1004631,
+        "item_name": "Demenissian Grand General Plate Cloak",
         "item_type": "Disc0",
-        "string_key": "Desert_Harrier_PlateArmor_Armor_I"
-      },
-      {
-        "key": 1000318,
-        "item_name": "Desert Marauder's Cloak",
-        "item_type": "Disc0",
-        "string_key": "Desert_Harrier_PlateArmor_Cloak_I"
-      },
-      {
-        "key": 1003211,
-        "item_name": "Dewhaven Standard Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Dewhaven_PlateArmor_Helm"
-      },
-      {
-        "key": 113524,
-        "item_name": "Dewhaven Standard Leather Armor",
-        "item_type": "Disc0",
-        "string_key": "Harald_Leather_Armor"
-      },
-      {
-        "key": 1001574,
-        "item_name": "Dewhaven Standard Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Harald_Fabric_Cloak"
+        "string_key": "Bastion_PlateArmor_Cloak"
       },
       {
         "key": 104184,
@@ -4884,18 +5532,6 @@
         "item_name": "Duskfang Leather Cloak",
         "item_type": "Disc0",
         "string_key": "Hemon_Vindel_Leather_Cloak"
-      },
-      {
-        "key": 101111,
-        "item_name": "The Faceless's Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Arghai_PlateArmor_Helm"
-      },
-      {
-        "key": 111151,
-        "item_name": "The Faceless's Cloth Armor",
-        "item_type": "Disc0",
-        "string_key": "Bayur_Fabric_Armor"
       },
       {
         "key": 103023,
@@ -4964,12 +5600,6 @@
         "string_key": "SkullKnight_PlateArmor_Helm"
       },
       {
-        "key": 111005,
-        "item_name": "Frostcursed Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "king_LostPeople_PlateArmor_Armor"
-      },
-      {
         "key": 121017,
         "item_name": "Frostcursed Plate Gloves",
         "item_type": "Disc0",
@@ -5010,18 +5640,6 @@
         "item_name": "Frozen Heart Plate Cloak",
         "item_type": "Disc0",
         "string_key": "Legendary_MarniGolem_Plate_Cloak"
-      },
-      {
-        "key": 1000624,
-        "item_name": "Golden Free Company's Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Twilight_Whistlers_PlateArmor_Helm_II"
-      },
-      {
-        "key": 1002761,
-        "item_name": "Golden Free Company's Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Twilight_Whistlers_PlateArmor_Armor_II"
       },
       {
         "key": 1000906,
@@ -5084,42 +5702,6 @@
         "string_key": "Greyfur_Fabric_Armor_CI"
       },
       {
-        "key": 1003928,
-        "item_name": "Greymane Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Demian_Greyfur_Fabric_Cloak_I"
-      },
-      {
-        "key": 1955057078,
-        "item_name": "Grotevant Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "WellsKnight_PlateArmor_Helm"
-      },
-      {
-        "key": 1473348912,
-        "item_name": "Grotevant Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "WellsKnight_PlateArmor_Armor"
-      },
-      {
-        "key": 2094675372,
-        "item_name": "Grotevant Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "WellsKnight_PlateArmor_Gloves"
-      },
-      {
-        "key": 697368607,
-        "item_name": "Grotevant Plate Boots",
-        "item_type": "Disc0",
-        "string_key": "WellsKnight_Plate_Boots"
-      },
-      {
-        "key": 1000303,
-        "item_name": "Grotevant Cloak",
-        "item_type": "Disc0",
-        "string_key": "WellsKnight_PlateArmor_Cloak"
-      },
-      {
         "key": 12218,
         "item_name": "Helfryn Leather Armor",
         "item_type": "Disc0",
@@ -5154,18 +5736,6 @@
         "item_name": "Helms Leather Boots",
         "item_type": "Disc0",
         "string_key": "Desert_Harrier_Leather_Boots_I"
-      },
-      {
-        "key": 12311,
-        "item_name": "Hernandian Leather Boots",
-        "item_type": "Disc0",
-        "string_key": "Hernand_Party_Leather_Boots"
-      },
-      {
-        "key": 1000326,
-        "item_name": "Hernandian Cloak",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Hernand_Party_Cloak"
       },
       {
         "key": 9102,
@@ -5270,18 +5840,6 @@
         "string_key": "Paulus_Basic_Leather_cloak"
       },
       {
-        "key": 1000349,
-        "item_name": "Jackals' Leather Helm",
-        "item_type": "Disc0",
-        "string_key": "Jackal_Leather_Helm"
-      },
-      {
-        "key": 2133173,
-        "item_name": "Jackals' Leather Armor",
-        "item_type": "Disc0",
-        "string_key": "North_Mercenary_Leather_Armor_II"
-      },
-      {
         "key": 104175,
         "item_name": "Jester Leather Mask",
         "item_type": "Disc0",
@@ -5300,34 +5858,34 @@
         "string_key": "Abyss_Surreal_Wolf_Leather_Cloak"
       },
       {
-        "key": 1000521,
-        "item_name": "Kairos Plate Helm",
+        "key": 2101010,
+        "item_name": "Knight of Carnage Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Kliff_PlateArmor_Helm"
+        "string_key": "Luon_PlateArmor_Helm"
       },
       {
-        "key": 1000524,
-        "item_name": "Kairos Plate Armor",
+        "key": 2111053,
+        "item_name": "Knight of Carnage Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Kliff_PlateArmor_Armor"
+        "string_key": "Luon_PlateArmor_Armor"
       },
       {
-        "key": 1000560,
-        "item_name": "Kairos Plate Gloves",
+        "key": 121054,
+        "item_name": "Knight of Carnage Plate Gloves",
         "item_type": "Disc0",
-        "string_key": "Kliff_PlateArmor_Gloves"
+        "string_key": "Luon_PlateArmor_Gloves"
       },
       {
-        "key": 1000567,
-        "item_name": "Kairos Plate Boots",
+        "key": 1163503,
+        "item_name": "Knight of Carnage Plate Boots",
         "item_type": "Disc0",
-        "string_key": "Kliff_Plate_Boots"
+        "string_key": "Luon_Plate_Boots"
       },
       {
-        "key": 1000546,
-        "item_name": "Kairos Cloak",
+        "key": 1000818,
+        "item_name": "Knight of Carnage Plate Cloak",
         "item_type": "Disc0",
-        "string_key": "Kliff_PlateArmor_Cloak"
+        "string_key": "Luon_PlateArmor_Cloak"
       },
       {
         "key": 2101033,
@@ -5358,12 +5916,6 @@
         "item_name": "Lightning Bolt Plate Helm",
         "item_type": "Disc0",
         "string_key": "Titan_PlateArmor_Helm"
-      },
-      {
-        "key": 1001326,
-        "item_name": "Lightning Bolt Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Titan_PlateArmor_Armor"
       },
       {
         "key": 1001327,
@@ -5408,40 +5960,16 @@
         "string_key": "Delesian_Friend_PlateArmor_Cloak"
       },
       {
-        "key": 2101010,
-        "item_name": "Knight of Carnage Plate Helm",
+        "key": 1004882,
+        "item_name": "Martial Monk's Cloth Gloves",
         "item_type": "Disc0",
-        "string_key": "Luon_PlateArmor_Helm"
+        "string_key": "OrcuMer_Fabric_Gloves_I"
       },
       {
-        "key": 2111053,
-        "item_name": "Knight of Carnage Plate Armor",
+        "key": 1000472,
+        "item_name": "Martial Monk's Cloth Boots",
         "item_type": "Disc0",
-        "string_key": "Luon_PlateArmor_Armor"
-      },
-      {
-        "key": 121054,
-        "item_name": "Knight of Carnage Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "Luon_PlateArmor_Gloves"
-      },
-      {
-        "key": 1163503,
-        "item_name": "Knight of Carnage Plate Boots",
-        "item_type": "Disc0",
-        "string_key": "Luon_Plate_Boots"
-      },
-      {
-        "key": 1000818,
-        "item_name": "Knight of Carnage Plate Cloak",
-        "item_type": "Disc0",
-        "string_key": "Luon_PlateArmor_Cloak"
-      },
-      {
-        "key": 114595,
-        "item_name": "The Masked Liberator's Cloth Armor",
-        "item_type": "Disc0",
-        "string_key": "Heisellen_Fabric_Armor"
+        "string_key": "OrcuMer_Fabric_Boots"
       },
       {
         "key": 123240,
@@ -5460,30 +5988,6 @@
         "item_name": "The Masked Liberator's Cloth Cloak",
         "item_type": "Disc0",
         "string_key": "Heisellen_Fabric_Cloak"
-      },
-      {
-        "key": 1001951,
-        "item_name": "Mistcloaked Owl Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Owls_of_the_Mist_PlateArmor_Helm"
-      },
-      {
-        "key": 1002358,
-        "item_name": "Mistcloaked Owl Leather Armor",
-        "item_type": "Disc0",
-        "string_key": "Owls_of_the_Mist_Leahter_Armor_V"
-      },
-      {
-        "key": 101048,
-        "item_name": "Musket Border Guard Standard Helm",
-        "item_type": "Disc0",
-        "string_key": "ReiGhis_PlateArmor_Helm"
-      },
-      {
-        "key": 1001177,
-        "item_name": "Musket Border Guard Standard Armor",
-        "item_type": "Disc0",
-        "string_key": "Hymns_of_Dusk_Fabric_Armor_I"
       },
       {
         "key": 101117,
@@ -5516,30 +6020,6 @@
         "string_key": "OrcuMer_PlateArmor_Helm"
       },
       {
-        "key": 1000052,
-        "item_name": "Odeck's Protector Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "OrcuMer_PlateArmor_Armor"
-      },
-      {
-        "key": 1000053,
-        "item_name": "Odeck's Protector Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "OrcuMer_PlateArmor_Gloves"
-      },
-      {
-        "key": 1000054,
-        "item_name": "Odeck's Protector Plate Boots",
-        "item_type": "Disc0",
-        "string_key": "OrcuMer_Plate_Boots"
-      },
-      {
-        "key": 1002283,
-        "item_name": "Odeck's Protector Plate Cloak",
-        "item_type": "Disc0",
-        "string_key": "OrcuMer_PlateArmor_Cloak"
-      },
-      {
         "key": 14306,
         "item_name": "Pailunese Gloves",
         "item_type": "Disc0",
@@ -5570,18 +6050,6 @@
         "string_key": "Pavis_Leather_Boots"
       },
       {
-        "key": 1003192,
-        "item_name": "Purple Scout Armor",
-        "item_type": "Disc0",
-        "string_key": "Twich_Fabric_Armor"
-      },
-      {
-        "key": 1003193,
-        "item_name": "Purple Scout Cloak",
-        "item_type": "Disc0",
-        "string_key": "Twich_Fabric_Cloak"
-      },
-      {
         "key": 104176,
         "item_name": "Rabbit Leather Mask",
         "item_type": "Disc0",
@@ -5594,16 +6062,16 @@
         "string_key": "Abyss_Surreal_Human_Fabric_Boots"
       },
       {
-        "key": 1000249,
-        "item_name": "Riding Boots",
+        "key": 14402,
+        "item_name": "Red Rider's Plate Helm",
         "item_type": "Disc0",
-        "string_key": "riding_Leather_Boots"
+        "string_key": "Redleader_PlateArmor_Helm"
       },
       {
-        "key": 1000274,
-        "item_name": "Riding Cloak",
+        "key": 1004883,
+        "item_name": "Red Rider's Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Riding_Fabric_Cloak"
+        "string_key": "Redleader_PlateArmor_Armor_I"
       },
       {
         "key": 2101037,
@@ -5666,12 +6134,6 @@
         "string_key": "Londel_PlateArmor_Helm"
       },
       {
-        "key": 111249,
-        "item_name": "Scorchflame Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Paphneil_PlateArmor_Armor"
-      },
-      {
         "key": 121026,
         "item_name": "Scorchflame Plate Gloves",
         "item_type": "Disc0",
@@ -5688,36 +6150,6 @@
         "item_name": "Scorchflame Plate Cloak",
         "item_type": "Disc0",
         "string_key": "Paphneil_PlateArmor_Cloak"
-      },
-      {
-        "key": 2133206,
-        "item_name": "Shadowleaf Helm",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Ent_Helm"
-      },
-      {
-        "key": 2133207,
-        "item_name": "Shadowleaf Gloves",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Ent_Gloves"
-      },
-      {
-        "key": 2133208,
-        "item_name": "Shadowleaf Boots",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Ent_Boots"
-      },
-      {
-        "key": 1000331,
-        "item_name": "Shadowleaf Cloak",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Ent_Cloak"
-      },
-      {
-        "key": 1000380,
-        "item_name": "Plate Helm of the Shadows",
-        "item_type": "Disc0",
-        "string_key": "DarknessKing_PlateArmor_Helm"
       },
       {
         "key": 1000225,
@@ -5792,30 +6224,6 @@
         "string_key": "Scalaphynion_Fabric_Cloak"
       },
       {
-        "key": 133020,
-        "item_name": "St. Halssius Priest's Leather Boots",
-        "item_type": "Disc0",
-        "string_key": "Volcker_Leather_Boots"
-      },
-      {
-        "key": 1000325,
-        "item_name": "St. Halssius Priest's Cloak",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Monk_cloak"
-      },
-      {
-        "key": 1002484,
-        "item_name": "Sungrove Standard Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Valoric_PlateArmor_Helm"
-      },
-      {
-        "key": 1001402,
-        "item_name": "Sungrove Standard Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Noble_Retainer_PlateArmor_Armor"
-      },
-      {
         "key": 113742,
         "item_name": "Sunset Reed Leather Armor",
         "item_type": "Disc0",
@@ -5838,36 +6246,6 @@
         "item_name": "Sunset Reed Leather Cloak",
         "item_type": "Disc0",
         "string_key": "Reeddevil_Leather_Cloak"
-      },
-      {
-        "key": 101046,
-        "item_name": "The Ashen's Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Tarandus_PlateArmor_Helm"
-      },
-      {
-        "key": 111039,
-        "item_name": "The Ashen's Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "Tarandus_PlateArmor_Armor"
-      },
-      {
-        "key": 121025,
-        "item_name": "The Ashen's Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "Tarandus_PlateArmor_Gloves"
-      },
-      {
-        "key": 133164,
-        "item_name": "The Ashen's Leather Boots",
-        "item_type": "Disc0",
-        "string_key": "Tarandus_Leather_Boots"
-      },
-      {
-        "key": 1004632,
-        "item_name": "The Ashen's Leather Cloak",
-        "item_type": "Disc0",
-        "string_key": "Tarandus_PlateArmor_Cloak"
       },
       {
         "key": 9302,
@@ -5898,6 +6276,36 @@
         "item_name": "Tiorant Cloth Cloak",
         "item_type": "Disc0",
         "string_key": "Taorant_Fabric_Cloak"
+      },
+      {
+        "key": 101003,
+        "item_name": "Unyielding Hero's Plate Helm",
+        "item_type": "Disc0",
+        "string_key": "Dragon_Slayer_Ohyoon_PlateArmor_Helm"
+      },
+      {
+        "key": 111254,
+        "item_name": "Unyielding Hero's Plate Armor",
+        "item_type": "Disc0",
+        "string_key": "Silver_PlateArmor_Armor"
+      },
+      {
+        "key": 121060,
+        "item_name": "Unyielding Hero's Plate Gloves",
+        "item_type": "Disc0",
+        "string_key": "Iytis_PlateArmor_Gloves"
+      },
+      {
+        "key": 131039,
+        "item_name": "Unyielding Hero's Plate Boots",
+        "item_type": "Disc0",
+        "string_key": "Cigrymon_Plate_Boots"
+      },
+      {
+        "key": 1000302,
+        "item_name": "Unyielding Hero's Plate Cloak",
+        "item_type": "Disc0",
+        "string_key": "Silver_PlateArmor_Cloak"
       },
       {
         "key": 101138,
@@ -5948,30 +6356,6 @@
         "string_key": "Weasel_Leather_Cloak"
       },
       {
-        "key": 1000200,
-        "item_name": "Wolf Tracker Helm",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Pursuer_Fabric_Helm"
-      },
-      {
-        "key": 1000179,
-        "item_name": "Wolf Tracker Cloth Armor",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Pursuer_Fabric_Armor"
-      },
-      {
-        "key": 1000181,
-        "item_name": "Wolf Tracker Leather Boots",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Pursuer_Leather_Boots"
-      },
-      {
-        "key": 1003286,
-        "item_name": "Wolf Tracker Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Pursuer_Fabric_Cloak"
-      },
-      {
         "key": 1163044,
         "item_name": "Ynitium Leather Armor",
         "item_type": "Disc0",
@@ -5996,18 +6380,6 @@
         "string_key": "Inytium_Leather_Cloak"
       },
       {
-        "key": 1002282,
-        "item_name": "Yrkabel Leather Armor",
-        "item_type": "Disc0",
-        "string_key": "Deer_King_Follower_Leather_Armor_VI"
-      },
-      {
-        "key": 1002742,
-        "item_name": "Yrkabel Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "Deer_King_Follower_Cloak_I"
-      },
-      {
         "key": 2133137,
         "item_name": "Ziggurat Cloth Helm",
         "item_type": "Disc0",
@@ -6018,12 +6390,6 @@
         "item_name": "Ziggurat Leather Armor",
         "item_type": "Disc0",
         "string_key": "Deshret_Leather_Armor"
-      },
-      {
-        "key": 14500,
-        "item_name": "Alpha Wolf Helm",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Chief_Leather_Helm"
       },
       {
         "key": 103094,
@@ -6038,22 +6404,10 @@
         "string_key": "Beltran_PlateArmor_Helm"
       },
       {
-        "key": 14511,
-        "item_name": "Bespoke Visione",
+        "key": 1000040,
+        "item_name": "Bobfett Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_I"
-      },
-      {
-        "key": 14507,
-        "item_name": "Black Bear Gas Mask",
-        "item_type": "Disc0",
-        "string_key": "Brimstone_Leather_Helm"
-      },
-      {
-        "key": 1003202,
-        "item_name": "Blue Scout Hat",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_Leather_Helm"
+        "string_key": "Bopet_PlateArmor_Helm"
       },
       {
         "key": 1003771,
@@ -6062,58 +6416,22 @@
         "string_key": "Vorren_Leather_Helm"
       },
       {
-        "key": 14501,
-        "item_name": "Boss Bear Hat",
-        "item_type": "Disc0",
-        "string_key": "Bear_Chief_Leather_Helm"
-      },
-      {
-        "key": 1000073,
-        "item_name": "Brimstone Gas Mask",
-        "item_type": "Disc0",
-        "string_key": "Gas_Mask_Helm_I"
-      },
-      {
-        "key": 1001258,
-        "item_name": "Catfish Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "Catfish_Helm"
-      },
-      {
-        "key": 1000202,
-        "item_name": "Circuit Hijacking Helm",
-        "item_type": "Disc0",
-        "string_key": "Hacking_PlateArmor_Helm"
-      },
-      {
         "key": 1004430,
         "item_name": "Circus Jester Hat",
         "item_type": "Disc0",
         "string_key": "Pinball_Fabric_Helm"
       },
       {
-        "key": 1000102,
-        "item_name": "Constellation Helm",
+        "key": 1002768,
+        "item_name": "Condemner's Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Anamorphic_PlateArmor_Helm"
+        "string_key": "Braxen_PlateArmor_Helm"
       },
       {
         "key": 2133193,
         "item_name": "Crude Devil Mask",
         "item_type": "Disc0",
         "string_key": "Crude_Devil_Mask"
-      },
-      {
-        "key": 1002122,
-        "item_name": "Deceiver's Fedora",
-        "item_type": "Disc0",
-        "string_key": "Card_Vision_Helm"
-      },
-      {
-        "key": 1000340,
-        "item_name": "Deer Hat",
-        "item_type": "Disc0",
-        "string_key": "Deer_King_Follower_Leather_Helm"
       },
       {
         "key": 1002270,
@@ -6170,12 +6488,6 @@
         "string_key": "Grace_PlateArmor_Helm"
       },
       {
-        "key": 1000231,
-        "item_name": "Guard Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_II"
-      },
-      {
         "key": 1001810,
         "item_name": "Hartmann Plate Helm",
         "item_type": "Disc0",
@@ -6188,40 +6500,22 @@
         "string_key": "Regglin_Boss_Helm"
       },
       {
-        "key": 1001236,
-        "item_name": "Health Detection Device",
-        "item_type": "Disc0",
-        "string_key": "Scouter_HP_PlateArmor_Helm"
-      },
-      {
         "key": 1001184,
         "item_name": "Herald of Six O'Clock",
         "item_type": "Disc0",
         "string_key": "Chicken_Helm"
       },
       {
-        "key": 2133182,
-        "item_name": "Hyena Helm",
+        "key": 1000349,
+        "item_name": "Jackals' Leather Helm",
         "item_type": "Disc0",
-        "string_key": "Hyena_Leather_Helm"
+        "string_key": "Jackal_Leather_Helm"
       },
       {
-        "key": 1000236,
-        "item_name": "Helm of Ignition",
+        "key": 1000521,
+        "item_name": "Kairos Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Heat_PlateArmor_Helm"
-      },
-      {
-        "key": 1000037,
-        "item_name": "Helm of Knowledge",
-        "item_type": "Disc0",
-        "string_key": "Knowledge_PlateArmor_Helm"
-      },
-      {
-        "key": 1002284,
-        "item_name": "Kuku Marni Laser Helm",
-        "item_type": "Disc0",
-        "string_key": "Marni_Laser_Helm_Upgrade"
+        "string_key": "Kliff_PlateArmor_Helm"
       },
       {
         "key": 1003769,
@@ -6230,34 +6524,34 @@
         "string_key": "Lavrak_Fabric_Helm"
       },
       {
-        "key": 1001400,
-        "item_name": "Marni Laser Helm",
-        "item_type": "Disc0",
-        "string_key": "Marni_Laser_Helm"
-      },
-      {
         "key": 1004408,
         "item_name": "Marni's Machina Knight Headgear",
         "item_type": "Disc0",
         "string_key": "MarniKnight_PlateArmor_Helm"
       },
       {
-        "key": 1000232,
-        "item_name": "Military Visione",
+        "key": 1000319,
+        "item_name": "Martial Monk's Cloth Robe",
         "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_III"
+        "string_key": "OrcuMer_Fabric_Armor"
       },
       {
-        "key": 1000143,
-        "item_name": "Miner's Lantern Hat",
+        "key": 1001951,
+        "item_name": "Mistcloaked Owl Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Miner_PlateArmor_Helm"
+        "string_key": "Owls_of_the_Mist_PlateArmor_Helm"
       },
       {
         "key": 2101016,
         "item_name": "Mortain Plate Helm",
         "item_type": "Disc0",
         "string_key": "Mortain_PlateArmor_Helm"
+      },
+      {
+        "key": 101048,
+        "item_name": "Musket Border Guard Standard Helm",
+        "item_type": "Disc0",
+        "string_key": "ReiGhis_PlateArmor_Helm"
       },
       {
         "key": 104169,
@@ -6272,28 +6566,10 @@
         "string_key": "Pirate_King_Leather_Helm"
       },
       {
-        "key": 356742259,
-        "item_name": "Pororin Petal Hat",
-        "item_type": "Disc0",
-        "string_key": "Florin_Fabric_Helm"
-      },
-      {
-        "key": 1000233,
-        "item_name": "Prototype Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm_IV"
-      },
-      {
         "key": 1000264,
         "item_name": "Pumpkin Head",
         "item_type": "Disc0",
         "string_key": "Goblin_Pumpkin_Helm_I"
-      },
-      {
-        "key": 1003191,
-        "item_name": "Purple Scout Hat",
-        "item_type": "Disc0",
-        "string_key": "Twich_Leather_Helm"
       },
       {
         "key": 1000341,
@@ -6308,12 +6584,6 @@
         "string_key": "Lardein_Fabric_Helm"
       },
       {
-        "key": 1000247,
-        "item_name": "Leather Riding Hat",
-        "item_type": "Disc0",
-        "string_key": "riding_Leather_Helm"
-      },
-      {
         "key": 1003770,
         "item_name": "Rivellon Cloth Cap",
         "item_type": "Disc0",
@@ -6324,12 +6594,6 @@
         "item_name": "Rueconec Cloth Cap",
         "item_type": "Disc0",
         "string_key": "Luconek_Fabric_Helm"
-      },
-      {
-        "key": 333963940,
-        "item_name": "Scarlet Blades Gas Mask",
-        "item_type": "Disc0",
-        "string_key": "Drug_Leather_Helm"
       },
       {
         "key": 103112,
@@ -6350,22 +6614,16 @@
         "string_key": "Trust_PlateArmor_Helm"
       },
       {
+        "key": 2133206,
+        "item_name": "Shadowleaf Helm",
+        "item_type": "Disc0",
+        "string_key": "Optionary_Ent_Helm"
+      },
+      {
         "key": 1004775,
         "item_name": "Silent Conqueror Plate Helm",
         "item_type": "Disc0",
         "string_key": "Silencer_PlateArmor_Helm"
-      },
-      {
-        "key": 12506,
-        "item_name": "Silver Fang Helm",
-        "item_type": "Disc0",
-        "string_key": "Legendary_WhiteWolf_Leather_Helm"
-      },
-      {
-        "key": 9402,
-        "item_name": "St. Halssius Priest's Hat",
-        "item_type": "Disc0",
-        "string_key": "Volcker_Fabric_Helm"
       },
       {
         "key": 1004776,
@@ -6386,18 +6644,6 @@
         "string_key": "Gadget_Fabric_Helm"
       },
       {
-        "key": 14510,
-        "item_name": "Visione",
-        "item_type": "Disc0",
-        "string_key": "Marni_Devotee_PlateArmor_Helm"
-      },
-      {
-        "key": 1002505,
-        "item_name": "White Bear Helm",
-        "item_type": "Disc0",
-        "string_key": "White_Bear_Leather_Helm"
-      },
-      {
         "key": 1000344,
         "item_name": "White Horn Leather Helm",
         "item_type": "Disc0",
@@ -6410,52 +6656,34 @@
         "string_key": "Witters_PlateArmor_Helm"
       },
       {
-        "key": 1000474,
-        "item_name": "Wooden Mask of Lost Justice",
-        "item_type": "Disc0",
-        "string_key": "Orcumer_Helm"
-      },
-      {
-        "key": 104106,
-        "item_name": "Wyvernflame Cloth Helm",
-        "item_type": "Disc0",
-        "string_key": "Sirius_Barley_Fabric_Helm"
-      },
-      {
-        "key": 2113163,
-        "item_name": "Ashclaw Leather Armor",
-        "item_type": "Disc0",
-        "string_key": "Tibbletanus_Leather_Armor"
-      },
-      {
         "key": 114521,
         "item_name": "Bedure Chain Mail",
         "item_type": "Disc0",
         "string_key": "Vdure_ChainMail_Armor"
       },
       {
-        "key": 2133101,
-        "item_name": "Blinding Arrows' Leather Armor",
+        "key": 1004812,
+        "item_name": "Blacksmith's Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Light_Arrowhead_Leather_Armor_V"
+        "string_key": "Blacksmith_Leather_Armor"
       },
       {
-        "key": 1163809,
-        "item_name": "Camouflage Outfit",
+        "key": 1000078,
+        "item_name": "Bounty Hunter's Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Optionary_Demeniss_Spy_Cloth"
+        "string_key": "BountyHunter_Leather_Armor_III"
+      },
+      {
+        "key": 2113205,
+        "item_name": "Buellen Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Wurten_Leather_Armor"
       },
       {
         "key": 8700,
         "item_name": "Crimson Chaser Mail",
         "item_type": "Disc0",
         "string_key": "Redsentinel_ChainMail_Armor"
-      },
-      {
-        "key": 1000164,
-        "item_name": "Dancing Catfish Cloth Armor",
-        "item_type": "Disc0",
-        "string_key": "Pirate_Fabric_Armor_II"
       },
       {
         "key": 114606,
@@ -6470,10 +6698,16 @@
         "string_key": "Dallabici_PlateArmor_Armor"
       },
       {
-        "key": 111187,
-        "item_name": "Flame Knights Plate Armor",
+        "key": 1001143,
+        "item_name": "Devan's Cloth Armor",
         "item_type": "Disc0",
-        "string_key": "Lower_ChainMail_Armor"
+        "string_key": "Greyfur_Fabric_Armor_III"
+      },
+      {
+        "key": 2113210,
+        "item_name": "Doventry Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Doventry_Leather_Armor"
       },
       {
         "key": 114354,
@@ -6482,16 +6716,22 @@
         "string_key": "Gael_Fabric_Armor"
       },
       {
+        "key": 1000348,
+        "item_name": "Grave Robber's Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "GraveRobber_Leather_Armor_IV"
+      },
+      {
         "key": 113665,
         "item_name": "Greymane Light Armor",
         "item_type": "Disc0",
         "string_key": "Mondian_Leather_Armor"
       },
       {
-        "key": 1163002,
-        "item_name": "Hernandian Attire",
+        "key": 113717,
+        "item_name": "Huskall Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Optionary_Hernand_Party_Cloth"
+        "string_key": "Huskall_Leather_Armor"
       },
       {
         "key": 114624,
@@ -6500,28 +6740,28 @@
         "string_key": "Abyss_Surreal_Wolf_Leather_Armor"
       },
       {
-        "key": 1002286,
-        "item_name": "Kuku Flame-Resistant Armor",
-        "item_type": "Disc0",
-        "string_key": "Paphneil_PlateArmor_Armor_Upgrade"
-      },
-      {
-        "key": 1002287,
-        "item_name": "Kuku Ice-Resistant Armor",
-        "item_type": "Disc0",
-        "string_key": "king_LostPeople_PlateArmor_Armor_Upgrade"
-      },
-      {
-        "key": 1002285,
-        "item_name": "Kuku Lightning-Resistant Armor",
-        "item_type": "Disc0",
-        "string_key": "Titan_PlateArmor_Armor_Upgrade"
-      },
-      {
         "key": 2114004,
         "item_name": "Leddic Cloth Armor",
         "item_type": "Disc0",
         "string_key": "Arkhan_Fabric_Armor"
+      },
+      {
+        "key": 1004810,
+        "item_name": "Lonely Bomb Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "LoneBomb_Leather_Armor"
+      },
+      {
+        "key": 1004820,
+        "item_name": "Mardain Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "Mardain_Leather_Armor"
+      },
+      {
+        "key": 1004780,
+        "item_name": "Martial Artist's Cloth Garb",
+        "item_type": "Disc0",
+        "string_key": "Fighter_Fabric_Armor"
       },
       {
         "key": 113672,
@@ -6548,6 +6788,12 @@
         "string_key": "Lyfellen_ChainMail_Armor"
       },
       {
+        "key": 1004811,
+        "item_name": "Oak Barrel Leather Armor",
+        "item_type": "Disc0",
+        "string_key": "OakBarrel_Mimic_Leather_Armor"
+      },
+      {
         "key": 114600,
         "item_name": "Pailunese Attire",
         "item_type": "Disc0",
@@ -6566,40 +6812,16 @@
         "string_key": "Abyss_Surreal_Human_Leather_Armor"
       },
       {
-        "key": 1000246,
-        "item_name": "Riding Attire",
-        "item_type": "Disc0",
-        "string_key": "Riding_Fabric_Armor"
-      },
-      {
         "key": 2113196,
         "item_name": "Ruschar Leather Armor",
         "item_type": "Disc0",
         "string_key": "Ruschar_Leather_Armor"
       },
       {
-        "key": 114640,
-        "item_name": "Scarlet Blades Cloth Armor",
+        "key": 1004821,
+        "item_name": "Stein Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Optionary_Bleed_Fabric_Armor"
-      },
-      {
-        "key": 1165010,
-        "item_name": "Scholastone Uniform",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Scholar_Stone_Cloth"
-      },
-      {
-        "key": 2133205,
-        "item_name": "Shadowleaf Outfit",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Ent_Cloth"
-      },
-      {
-        "key": 1000021,
-        "item_name": "St. Halssius Priest Attire",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Monk_Cloth"
+        "string_key": "Stein_Leather_Armor"
       },
       {
         "key": 9103,
@@ -6608,28 +6830,22 @@
         "string_key": "Tarif_Fabric_Armor"
       },
       {
-        "key": 1001413,
-        "item_name": "Windmere Standard Plate Armor",
+        "key": 1004818,
+        "item_name": "Valnos Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Noble_Retainer_PlateArmor_Armor_XI"
+        "string_key": "Valnos_Leather_Armor"
       },
       {
-        "key": 114326,
-        "item_name": "Wyvernflames Cloth Armor",
+        "key": 12205,
+        "item_name": "Vildyne Leather Armor",
         "item_type": "Disc0",
-        "string_key": "Tokart_Fabric_Armor"
+        "string_key": "Bildain_Leather_Armor_I"
       },
       {
         "key": 14305,
         "item_name": "Brass Warden's Plate Gloves",
         "item_type": "Disc0",
         "string_key": "Oongka_Plate_Glove"
-      },
-      {
-        "key": 1001949,
-        "item_name": "Champion's Plate Gloves",
-        "item_type": "Disc0",
-        "string_key": "Muscan_PlateArmor_Gloves"
       },
       {
         "key": 1000005,
@@ -6650,24 +6866,6 @@
         "string_key": "Goloduan_PlateArmor_Gloves"
       },
       {
-        "key": 1001250,
-        "item_name": "Great Thief's Gloves",
-        "item_type": "Disc0",
-        "string_key": "ThiefGloves"
-      },
-      {
-        "key": 2133190,
-        "item_name": "Insulated Gloves",
-        "item_type": "Disc0",
-        "string_key": "Protect_Electric_Leather_Gloves"
-      },
-      {
-        "key": 1000248,
-        "item_name": "Master Trainer's Touch",
-        "item_type": "Disc0",
-        "string_key": "riding_Leather_Gloves"
-      },
-      {
         "key": 123036,
         "item_name": "Melvin Leather Gloves",
         "item_type": "Disc0",
@@ -6686,24 +6884,6 @@
         "string_key": "Pyinca_PlateArmor_Gloves"
       },
       {
-        "key": 1001000,
-        "item_name": "Reins of Open Sky",
-        "item_type": "Disc0",
-        "string_key": "Optionary_NonSlip_Gloves"
-      },
-      {
-        "key": 1001300,
-        "item_name": "Strongbow Gloves",
-        "item_type": "Disc0",
-        "string_key": "PowerDraw_Gloves"
-      },
-      {
-        "key": 1001009,
-        "item_name": "Tech Gloves",
-        "item_type": "Disc0",
-        "string_key": "Gadget_Gloves"
-      },
-      {
         "key": 131042,
         "item_name": "Demenissian Plate Boots",
         "item_type": "Disc0",
@@ -6716,34 +6896,16 @@
         "string_key": "Dutrat_Leather_Boots"
       },
       {
-        "key": 1001191,
-        "item_name": "Fire Walk Boots",
+        "key": 12311,
+        "item_name": "Hernandian Leather Boots",
         "item_type": "Disc0",
-        "string_key": "Fire_Boots"
-      },
-      {
-        "key": 1001199,
-        "item_name": "Giant's Boots",
-        "item_type": "Disc0",
-        "string_key": "Colossus_Boots"
+        "string_key": "Hernand_Party_Leather_Boots"
       },
       {
         "key": 133237,
         "item_name": "Isilon Leather Boots",
         "item_type": "Disc0",
         "string_key": "Isilon_Leather_Boots"
-      },
-      {
-        "key": 1001299,
-        "item_name": "Kuku Breeze-Step Boots",
-        "item_type": "Disc0",
-        "string_key": "JumpUp_Boots"
-      },
-      {
-        "key": 1000316,
-        "item_name": "Kuku Rishi's Boots",
-        "item_type": "Disc0",
-        "string_key": "Riesi_Boots_Upgrade"
       },
       {
         "key": 133203,
@@ -6758,12 +6920,6 @@
         "string_key": "Nakmore_Leather_Boots"
       },
       {
-        "key": 1001296,
-        "item_name": "Pillager's Leather Boots",
-        "item_type": "Disc0",
-        "string_key": "Robbery_Boots"
-      },
-      {
         "key": 133044,
         "item_name": "Rhonda Leather Boots",
         "item_type": "Disc0",
@@ -6776,34 +6932,10 @@
         "string_key": "Sein_Leather_Boots"
       },
       {
-        "key": 1000074,
-        "item_name": "Shoddy Rishi's Boots",
-        "item_type": "Disc0",
-        "string_key": "Riesi_Boots"
-      },
-      {
-        "key": 1001145,
-        "item_name": "Stirrups of the Open Sky",
-        "item_type": "Disc0",
-        "string_key": "Optionary_NonSlip_Boots"
-      },
-      {
         "key": 133043,
         "item_name": "Tesslit Leather Boots",
         "item_type": "Disc0",
         "string_key": "Tesslit_Leather_Boots"
-      },
-      {
-        "key": 2131006,
-        "item_name": "Tidebreaker Boots",
-        "item_type": "Disc0",
-        "string_key": "IncreaseSwimmingSpeed_Plate_Boots"
-      },
-      {
-        "key": 1000259,
-        "item_name": "Vaporwalker",
-        "item_type": "Disc0",
-        "string_key": "WaterSliding_Plate_Boots"
       },
       {
         "key": 133121,
@@ -6812,34 +6944,10 @@
         "string_key": "Woodbrock_Leather_Boots"
       },
       {
-        "key": 1004631,
-        "item_name": "Demenissian Grand General Plate Cloak",
-        "item_type": "Disc0",
-        "string_key": "Bastion_PlateArmor_Cloak"
-      },
-      {
-        "key": 1001531,
-        "item_name": "Bear Hide Cloak",
-        "item_type": "Disc0",
-        "string_key": "Bear_Leather_cloak"
-      },
-      {
         "key": 1000203,
         "item_name": "Beighen Cloth Cloak",
         "item_type": "Disc0",
         "string_key": "Militia_Fabric_Cloak_I"
-      },
-      {
-        "key": 1000343,
-        "item_name": "Boar Cloak",
-        "item_type": "Disc0",
-        "string_key": "Camouflage_Boar_Cloak"
-      },
-      {
-        "key": 1000971,
-        "item_name": "Cow Cloak",
-        "item_type": "Disc0",
-        "string_key": "Camouflage_Bull_Cloak"
       },
       {
         "key": 1000278,
@@ -6860,34 +6968,16 @@
         "string_key": "Demeniss_Cloak"
       },
       {
-        "key": 1000324,
-        "item_name": "Disguise Cloak",
-        "item_type": "Disc0",
-        "string_key": "Optionary_Demeniss_Spy_Cloak"
-      },
-      {
         "key": 1001120,
         "item_name": "Hernandian Noble's Cloak",
         "item_type": "Disc0",
         "string_key": "Hernand_Cloak"
       },
       {
-        "key": 1000576,
-        "item_name": "Jackal Cloth Cloak",
-        "item_type": "Disc0",
-        "string_key": "North_Mercenary_Fabric_Cloak_I"
-      },
-      {
         "key": 1000032,
         "item_name": "Pororin Cloth Cloak",
         "item_type": "Disc0",
         "string_key": "Florin_Fabric_Cloak"
-      },
-      {
-        "key": 1000715,
-        "item_name": "Reindeer Cloak",
-        "item_type": "Disc0",
-        "string_key": "Camouflage_Reindeer_Cloak"
       },
       {
         "key": 1000335,
@@ -6900,12 +6990,6 @@
         "item_name": "Varnian Noble's Cloak",
         "item_type": "Disc0",
         "string_key": "Varnia_Cloak"
-      },
-      {
-        "key": 1000444,
-        "item_name": "Wolf Cloak",
-        "item_type": "Disc0",
-        "string_key": "Camouflage_Wolf_Cloak"
       }
     ]
   },
