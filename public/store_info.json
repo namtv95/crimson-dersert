@@ -8670,6 +8670,12 @@
         "string_key": "Troopers_TwoHandSpear"
       },
       {
+        "key": 1005302,
+        "item_name": "Harkan's Spear",
+        "item_type": "Disc0",
+        "string_key": "ScrapQueen_Goblin_TwoHandSpear"
+      },
+      {
         "key": 1000106,
         "item_name": "Silver Visione Stand",
         "item_type": "Disc0",
@@ -14372,6 +14378,12 @@
         "string_key": "Specialty_Oil"
       },
       {
+        "key": 1004910,
+        "item_name": "Hernand Bond",
+        "item_type": "Disc0",
+        "string_key": "Hernand_Bond"
+      },
+      {
         "key": 2,
         "item_name": "Pearl",
         "item_type": "Disc0",
@@ -19323,7 +19335,7 @@
       },
       {
         "key": 1000795,
-        "item_name": "Small Vellua Pirates Banner Pike",
+        "item_name": "Small Dancing Catfish Pirates' Banner Pike",
         "item_type": "Disc0",
         "string_key": "Storm_Cliff_Flag"
       },
@@ -19335,7 +19347,7 @@
       },
       {
         "key": 1001084,
-        "item_name": "Small Vellua Pirates Banner Pike",
+        "item_name": "Small Dancing Catfish Pirates' Banner Pike",
         "item_type": "Disc0",
         "string_key": "Storm_Cliff_Flag_I"
       },
@@ -19605,7 +19617,7 @@
       },
       {
         "key": 1003346,
-        "item_name": "Medium Vellua Pirate Banner Pike",
+        "item_name": "Medium Dancing Catfish Pirates' Banner Pike",
         "item_type": "Disc0",
         "string_key": "Storm_Cliff_Flag_II"
       },
